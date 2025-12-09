@@ -1,0 +1,1187 @@
+ID label_en synonym_en label_ja	synonym_ja notification_number Mondo
+1200001	[Shitei] Spinal and bulbar muscular atrophy	SBMA|Kennedy disease	[指定] 球脊髄性筋萎縮症	Kennedy-Alter-Sung症候群|KAS	MONDO:0010735|MONDO:0016113	1
+1200002	[Shitei] Amyotrophic lateral sclerosis	ALS	[指定] 筋萎縮性側索硬化症		MONDO:0004976	2
+1200003	[Shitei] Spinal muscular atrophy	SMA	[指定] 脊髄性筋萎縮症		MONDO:0001516	3
+1200008	[Shitei] Primary lateral sclerosis	PLS	[指定] 原発性側索硬化症		MONDO:0018155	4
+1200009	[Shitei] Progressive supranuclear palsy	PSP	[指定] 進行性核上性麻痺		MONDO:0019037	5
+1200010	[Shitei] Parkinson's disease	Parkinson disease|PD	[指定] パーキンソン病		MONDO:0005180	6
+1200011	[Shitei] Corticobasal degeneration	CBD	[指定] 大脳皮質基底核変性症		MONDO:0022308|MONDO:0022880	7
+1200012	[Shitei] Huntington's disease	Huntington disease	[指定] ハンチントン病		MONDO:0007739	8
+1200013	[Shitei] Neuroacanthocytosis		[指定] 神経有棘赤血球症		MONDO:0016987	9
+1200016	[Shitei] Charcot-Marie-Tooth disease	CMT	[指定] シャルコー・マリー・トゥース病		MONDO:0015626	10
+1200020	[Shitei] Myasthenia gravis	MG	[指定] 重症筋無力症		MONDO:0009688	11
+1200021	[Shitei] Congenital myasthenic syndrome	CMS	[指定] 先天性筋無力症候群		MONDO:0018940	12
+1200022	[Shitei] Multiple sclerosis/Neuromyelitis optica spectrum disorders	MS/NMOSD|Multiple sclerosis/Neuromyelitis optica|MS/NMO	[指定] 多発性硬化症／視神経脊髄炎			13
+1200029	[Shitei] Chronic inflammatory demyelinating polyneuropathy/Multifocal motor neuropathy	CIDP/MMN	[指定] 慢性炎症性脱髄性多発神経炎／多巣性運動ニューロパチー			14
+1200032	[Shitei] Sporadic inclusion body myositis	sIBM	[指定] 封入体筋炎		MONDO:0007827	15
+1200033	[Shitei] Crow-Fukase syndrome	POEMS syndrome|Polyneuropathy, organomegaly, endocrinopathy, M-protein, and skin changes syndrome	[指定] クロウ・深瀬症候群	POEMS症候群	MONDO:0017364	16
+1200034	[Shitei] Multiple system atrophy	MSA	[指定] 多系統萎縮症		MONDO:0007803	17
+1200037	[Shitei] Spinocerebellar degeneration	SCD	[指定] 脊髄小脳変性症		MONDO:0000437	18
+1200055	[Shitei] Lysosomal storage disease		[指定] ライソゾーム病		MONDO:0002561	19
+1200165	[Shitei] Adrenoleukodystrophy		[指定] 副腎白質ジストロフィー		MONDO:0018544	20
+1200173	[Shitei] Mitochondrial diseases		[指定] ミトコンドリア病	ミトコンドリア脳筋症	MONDO:0004069|MONDO:0044970	21
+1200183	[Shitei] Moyamoya disease		[指定] もやもや病	ウィリス動脈輪閉塞症	MONDO:0016820	22
+1200186	[Shitei] Prion disease		[指定] プリオン病		MONDO:0005429	23
+1200195	[Shitei] Subacute sclerosing panencephalitis	SSPE	[指定] 亜急性硬化性全脳炎		MONDO:0009835	24
+1200205	[Shitei] Progressive multifocal leukoencephalopathy	PML	[指定] 進行性多巣性白質脳症		MONDO:0016318	25
+1200206	[Shitei] HTLV-1-associated myelopathy	HAM	[指定] HTLV-1関連脊髄症	HAM	MONDO:0008039	26
+1200207	[Shitei] Idiopathic basal ganglia calcification	IBGC	[指定] 特発性基底核石灰化症		MONDO:0008947	27
+1200209	[Shitei] Systemic amyloidosis		[指定] 全身性アミロイドーシス		MONDO:0017816	28
+1200215	[Shitei] Ullrich disease	Ullrich's disease|Ullrich congenital muscular dystrophy	[指定] ウルリッヒ病	ウルリッヒ型先天性筋ジストロフィー	MONDO:0000355|MONDO:0009681	29
+1200216	[Shitei] Distal myopathy		[指定] 遠位型ミオパチー		MONDO:0018949	30
+1200220	[Shitei] Bethlem Myopathy		[指定] ベスレムミオパチー		MONDO:0008029	31
+1200221	[Shitei] Autophagic vacuolar myopathy		[指定] 自己貪食空胞性ミオパチー			32
+1200224	[Shitei] Schwartz-Jampel syndrome	SJS	[指定] シュワルツ・ヤンペル症候群	Schwartz-Jampel症候群	MONDO:0009717	33
+1200225	[Shitei] Neurofibromatosis		[指定] 神経線維腫症		MONDO:0018975|MONDO:0021061	34
+1200228	[Shitei] Pemphigus		[指定] 天疱瘡		MONDO:0006594	35
+1200234	[Shitei] Epidermolysis bullosa		[指定] 表皮水疱症		MONDO:0006541	36
+1200240	[Shitei] Pustular psoriasis	Generalized pustular psoriasis|GPP	[指定] 膿疱性乾癬（汎発型）		MONDO:0016597|MONDO:0022205	37
+1200245	[Shitei] Stevens-Johnson syndrome	SJS	[指定] スティーヴンス・ジョンソン症候群	皮膚粘膜眼症候群|Stevens-Johnson症候群	MONDO:0018229	38
+1200246	[Shitei] Toxic epidermal necrolysis	TEN	[指定] 中毒性表皮壊死症		MONDO:0019810	39
+1200251	[Shitei] Takayasu arteritis	Aortitis syndrome|Takayasu's arteritis	[指定] 高安動脈炎		MONDO:0006656|MONDO:0017991	40
+1200258	[Shitei] Giant cell arteritis	GCA	[指定] 巨細胞性動脈炎		MONDO:0008538	41
+1200261	[Shitei] Polyarteritis nodosa	Periarteritis nodosa|PAN	[指定] 結節性多発動脈炎	結節性動脈周囲炎	MONDO:0019170	42
+1200262	[Shitei] Microscopic polyangiitis	MPA	[指定] 顕微鏡的多発血管炎		MONDO:0019124	43
+1200263	[Shitei] Granulomatosis with polyangiitis	Wegeners granulomatosis|GPA	[指定] 多発血管炎性肉芽腫症	ウェゲナー肉芽腫症	MONDO:0012105	44
+1200264	[Shitei] Eosinophilic granulomatosis with polyangiitis	EGPA|Allergic granulomatous angiitis|Churg Strauss syndrome	[指定] 好酸球性多発血管炎性肉芽腫症	アレルギー性肉芽腫性血管炎|チャーグ・ストラウス症候群	MONDO:0015943	45
+1200265	[Shitei] Rheumatoid vasculitis	Rheumatoid arthritis with vasculitis|Malignant rheumatoid arthritis	[指定] 悪性関節リウマチ	リウマトイド血管炎|血管炎を伴う関節リウマチ	MONDO:0043267	46
+1200266	[Shitei] Buerger's disease	Thromboangiitis obliterans|TAO	[指定] バージャー病	ビュルガー病|閉塞性血栓血管炎	MONDO:0008889	47
+1200267	[Shitei] Primary antiphospholipid antibody syndrome	Primary antiphospholipid syndrome|Primary APS	[指定] 原発性抗リン脂質抗体症候群	原発性APS	MONDO:0005204	48
+1200272	[Shitei] Systemic lupus erythematosus		[指定] 全身性エリテマトーデス		MONDO:0007915	49
+1200273	[Shitei] Dermatomyositis/Polymyositis	DM/PM	[指定] 皮膚筋炎／多発性筋炎			50
+1200277	[Shitei] Systemic sclerosis	Systemic scleroderma	[指定] 全身性強皮症		MONDO:0005100	51
+1200278	[Shitei] Mixed connective tissue disease	MCTD	[指定] 混合性結合組織病		MONDO:0005854	52
+1200279	[Shitei] Sjogren's syndrome	Sjogren syndrome|Sjögren's syndrome	[指定] シェーグレン症候群	Sjogren症候群	MONDO:0010030	53
+1200282	[Shitei] Adult-onset Still disease	Adult Still disease|Adult-onset Still disease|AOSD|Adult Still's disease	[指定] 成人発症スチル病	成人Still病|成人スチル病	MONDO:0019355	54
+1200283	[Shitei] Relapsing polychondritis	RP	[指定] 再発性多発軟骨炎		MONDO:0019125	55
+1200284	[Shitei] Behcet's disease	Behcet disease	[指定] ベーチェット病		MONDO:0007191	56
+1200285	[Shitei] Idiopathic dilated cardiomyopathy		[指定] 特発性拡張型心筋症			57
+1200286	[Shitei] Hypertrophic cardiomyopathy	HCM	[指定] 肥大型心筋症		MONDO:0005045	58
+1200292	[Shitei] Restrictive cardiomyopathy	Restricted cardiomyopathy	[指定] 拘束型心筋症		MONDO:0005201	59
+1200295	[Shitei] Aplastic anemia	Aplastic anaemia	[指定] 再生不良性貧血		MONDO:0015909	60
+1200305	[Shitei] Autoimmune hemolytic anemia	Autoimmune haemolytic anaemia|AIHA	[指定] 自己免疫性溶血性貧血		MONDO:0020108	61
+1200311	[Shitei] Paroxysmal nocturnal hemoglobinuria	Paroxysmal nocturnal haemoglobinuria|PNH	[指定] 発作性夜間ヘモグロビン尿症		MONDO:0018641	62
+1200315	[Shitei] Immune thrombocytopenia	Primary immune thrombocytopenia|ITP	[指定] 免疫性血小板減少症		MONDO:0008558	63
+1200316	[Shitei] Thrombotic thrombocytopenic purpura	TTP	[指定] 血栓性血小板減少性紫斑病		MONDO:0018896	64
+1200320	[Shitei] Primary immunodeficiency syndrome	Primary immunodeficiency disease|PID	[指定] 原発性免疫不全症候群		MONDO:0003778	65
+1200366	[Shitei] IgA nephropathy		[指定] IgＡ腎症		MONDO:0005342	66
+1200367	[Shitei] Polycystic kidney disease	Polycystic kidney|PKD	[指定] 多発性嚢胞腎		MONDO:0020642	67
+1200370	[Shitei] Ossification of ligamentum flavum	Ossification of the ligamentum flavum|OLF	[指定] 黄色靱帯骨化症			68
+1200371	[Shitei] Ossification of posterior longitudinal ligament	OPLL|Ossification of the posterior longitudinal ligament	[指定] 後縦靱帯骨化症	OPLL	MONDO:0011230	69
+1200372	[Shitei] Coexisting cervical and lumbar spinal stenosis		[指定] 広範脊柱管狭窄症		MONDO:0005965	70
+1200373	[Shitei] Idiopathic osteonecrosis of femoral head	Idiopathic osteonecrosis of the femoral head|ION	[指定] 特発性大腿骨頭壊死症		MONDO:0012126	71
+1200374	[Shitei] Diencephalo-hypophysial insufficiency-inappropriate ADH syndrome	Pituitary ADH secretion disorders|Syndrome of inappropriate ADH secretion|SIADH	[指定] 下垂体性ADH分泌異常症			72
+1200377	[Shitei] Diencephalo-hypophysial insufficiency-inappropriate thyroid stimulating hormone syndrome	TSH-secreting pituitary adenoma|Syndrome of inappropriate thyroid-stimulating hormone secretion|Syndrome of inappropriate TSH secretion	[指定] 下垂体性TSH分泌亢進症		MONDO:0019611	73
+1200378	[Shitei] Diencephalo-hypophysial insufficiency-inappropriate prolactin syndrome	Prolactin secreting pituitary adenoma|PRL-secreting pituitary adenoma|Inappropriate prolactin secretion syndrome	[指定] 下垂体性PRL分泌亢進症		MONDO:0010911	74
+1200379	[Shitei] Cushing disease	Cushing's Disease	[指定] クッシング病	Cushing病	MONDO:0009050	75
+1200380	[Shitei] Diencephalo-hypophysial dysfunction-syndrome of abnormal secretion of gonadotropin	Pituitary gonadotropin secretion hyperthyroidism	[指定] 下垂体性ゴナドトロピン分泌亢進症			76
+1200386	[Shitei] Diencephalo-hypophysial dysfunction-syndrome of abnormal secretion of growth hormone	Growth hormone secreting pituitary adenoma	[指定] 下垂体性成長ホルモン分泌亢進症		MONDO:0006238	77
+1200387	[Shitei] Hypopituitarism syndrome	Hypopituitarism	[指定] 下垂体前葉機能低下症		MONDO:0005152	78
+1200394	[Shitei] Homozygous familial hypercholesterolemia	Homozygous familial hypercholesterolaemia|Homozygous FH	[指定] 家族性高コレステロール血症ホモ接合体	FHホモ接合体	MONDO:0018328	79
+1200395	[Shitei] Resistance to thyroid hormone	Syndrome of Resistance to Thyroid Hormone|RTH|Thyroid hormone insensitivity syndrome	[指定] 甲状腺ホルモン不応症		MONDO:0001328|MONDO:0010131	80
+1200396	[Shitei] Congenital adrenal enzyme deficiency	Congenital adrenal hyperplasia|Congenial adrenal cortex enzyme deficiency	[指定] 先天性副腎皮質酵素欠損症		MONDO:0018479	81
+1200403	[Shitei] Congenital adrenal hypoplasia		[指定] 先天性副腎低形成症	常染色体性先天性副腎低形成	MONDO:0010264|MONDO:0016241	82
+1200411	[Shitei] Addison's disease	Primary chronic adrenocortical insufficiency|Addison disease	[指定] アジソン病	Addison病	MONDO:0009410|MONDO:0015129	83
+1200415	[Shitei] Sarcoidosis		[指定] サルコイドーシス		MONDO:0019338	84
+1200416	[Shitei] Idiopathic interstitial pneumonia	IIPs	[指定] 特発性間質性肺炎		MONDO:0002429	85
+1200425	[Shitei] Pulmonary arterial hypertension	PAH	[指定] 肺動脈性肺高血圧症		MONDO:0015924	86
+1200426	[Shitei] Pulmonary veno-occlusive disease / pulmonary capillary hemangiomatosis	Pulmonary veno-occlusive disease / pulmonary capillary haemangiomatosis|Pulmonary veno-occlusive disease and/or pulmonary capillary haemangiomatosis|PVOD / PCH	[指定] 肺静脈閉塞症／肺毛細血管腫症		MONDO:0018554	87
+1200429	[Shitei] Chronic thromboembolic pulmonary hypertension	CTEPH	[指定] 慢性血栓塞栓性肺高血圧症		MONDO:0013024	88
+1200430	[Shitei] Lymphangioleiomyomatosis	LAM	[指定] リンパ脈管筋腫症	LAM	MONDO:0011705	89
+1200431	[Shitei] Retinitis pigmentosa		[指定] 網膜色素変性症		MONDO:0019200	90
+1200437	[Shitei] Budd-Chiari syndrome		[指定] バッド・キアリ症候群		MONDO:0010947	91
+1200438	[Shitei] Idiopathic portal hypertension	Banti syndrome|IPH	[指定] 特発性門脈圧亢進症	バンチ症候群|Banti症候群	MONDO:0021969	92
+1200439	[Shitei] Primary biliary cholangitis	Primary biliary cirrhosis|PBC	[指定] 原発性胆汁性胆管炎		MONDO:0005388	93
+1200440	[Shitei] Primary sclerosing cholangitis	PSC	[指定] 原発性硬化性胆管炎	PSC	MONDO:0013433|MONDO:0018646	94
+1200441	[Shitei] Autoimmune hepatitis	AIH	[指定] 自己免疫性肝炎		MONDO:0016264	95
+1200444	[Shitei] Crohn's disease	Crohn Disease	[指定] クローン病	Crohn病	MONDO:0005011	96
+1200449	[Shitei] Ulcerative colitis		[指定] 潰瘍性大腸炎		MONDO:0005101	97
+1200454	[Shitei] Eosinophilic gastrointestinal disorders	Eosinophilic gastrointestinal disease|EGID	[指定] 好酸球性消化管疾患		MONDO:0018438	98
+1200458	[Shitei] Chronic idiopathic intestinal pseudo-obstruction	CIIP	[指定] 慢性特発性偽性腸閉塞症		MONDO:0017574	99
+1200459	[Shitei] Megacystis-microcolon-intestinal hypoperistalsis syndrome	Huge bladder short and small colon intestinal peristalsis deficiency|Megacystis microcolon intestinal hypoperistalsis syndrome|MMIHS	[指定] 巨大膀胱短小結腸腸管蠕動不全症		MONDO:0007960	100
+1200460	[Shitei] Congenital isolated hypoganglionosis	Intestinal ganglion cells insignificant disease	[指定] 腸管神経節細胞僅少症		MONDO:0008738	101
+1200461	[Shitei] Rubinstein-Taybi syndrome		[指定] ルビンシュタイン・テイビ症候群	Rubinstein-Taybi症候群	MONDO:0019188	102
+1200462	[Shitei] CFC Syndrome	Cardio-facio-cutaneous syndrome	[指定] CFC症候群	心臓・顔・皮膚症候群|cardio-facio-cutaneous症候群	MONDO:0015280	103
+1200463	[Shitei] Costello syndrome		[指定] コステロ症候群	Costello症候群	MONDO:0009026	104
+1200464	[Shitei] CHARGE syndrome		[指定] チャージ症候群	CHARGE症候群	MONDO:0008965	105
+1200465	[Shitei] Cryopyrin-associated periodic syndrome	Cryopyrin associated periodic fever syndrome	[指定] クリオピリン関連周期熱症候群		MONDO:0016168	106
+1200469	[Shitei] Juvenile idiopathic arthritis	JIA	[指定] 若年性特発性関節炎		MONDO:0011429	107
+1200472	[Shitei] TNF receptor-associated periodic fever syndrome	TRAPS	[指定] TNF受容体関連周期性症候群		MONDO:0007727	108
+1200473	[Shitei] Atypical hemolytic uremic syndrome	Atypical haemolytic uraemic syndrome|aHUS	[指定] 非典型溶血性尿毒症症候群		MONDO:0016244	109
+1200476	[Shitei] Blau syndrome	Early onset sarcoidosis	[指定] ブラウ症候群	Blau症候群|若年発症サルコイドーシス	MONDO:0008523	110
+1200477	[Shitei] Congenital myopathy		[指定] 先天性ミオパチー		MONDO:0019952	111
+1200485	[Shitei] Marinesco-Sjogren syndrome		[指定] マリネスコ・シェーグレン症候群	MSS|Marinesco-Sjogren症候群	MONDO:0009567	112
+1200486	[Shitei] Muscular dystrophy		[指定] 筋ジストロフィー		MONDO:0020121	113
+1200496	[Shitei] Non-dystrophic myotonia	Non-dystrophic myotonic syndromes	[指定] 非ジストロフィー性ミオトニー症候群		MONDO:0016110	114
+1200502	[Shitei] Hereditary periodic paralysis	Familial periodic paralysis	[指定] 遺伝性周期性四肢麻痺		MONDO:0000995	115
+1200505	[Shitei] Atopic myelitis		[指定] アトピー性脊髄炎			116
+1200506	[Shitei] Syringomyelia		[指定] 脊髄空洞症		MONDO:0017987	117
+1200509	[Shitei] Myelomeningocele		[指定] 脊髄髄膜瘤		MONDO:0017069|MONDO:0019773	118
+1200510	[Shitei] Isaacs syndrome	Isaacs' syndrome	[指定] アイザックス症候群	Isaacs症候群	MONDO:0019399	119
+1200511	[Shitei] Hereditary dystonia		[指定] 遺伝性ジストニア		MONDO:0044807	120
+1200542	[Shitei] Neurodegeneration with brain iron accumulation	NBIA	[指定] 脳内鉄沈着神経変性症	神経フェリチン症	MONDO:0018307	121
+1200543	[Shitei] Superficial siderosis	Brain table hemosiderosis	[指定] 脳表ヘモジデリン沈着症		MONDO:0016594	122
+1200544	[Shitei] HTRA1-Related Cerebral Small Vessel Disease	Cerebral autosomal recessive arteriopathy with baldness and degenerative spondylosis|Autosomal recessive leukoencephalopathy with baldness and degenerative spondylosis|CARASIL|Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy	[指定] HTRA1関連脳小血管病	CARASIL|禿頭と変形性脊椎症を伴う常染色体劣性白質脳症	MONDO:0010829	123
+1200545	[Shitei] Cerebral autosomal dominant arteriopathy with subcortical infarct and leukoencephalopathy	Autosomal dominant cerebral artery disease with subcortical infarct and leukoencephalopathy|Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy|CADASIL	[指定] 皮質下梗塞と白質脳症を伴う常染色体優性脳動脈症	CADASIL	MONDO:0007432	124
+1200546	[Shitei] Hereditary diffuse leukoencephalopathy with spheroid	HDLS	[指定] 神経軸索スフェロイド形成を伴う遺伝性びまん性白質脳症		MONDO:0009096	125
+1200547	[Shitei] Perry disease	Perry syndrome	[指定] ペリー病	Perry症候群|ペリー症候群	MONDO:0008201	126
+1200548	[Shitei] Frontotemporal lobar degeneration	FTLD	[指定] 前頭側頭葉変性症		MONDO:0017276	127
+1200551	[Shitei] Bickerstaff's brainstem encephalitis	Bickerstaff brainstem encephalitis|Vickers staff brainstem encephalitis	[指定] ビッカースタッフ脳幹脳炎	Bickerstaff型脳幹脳炎	MONDO:0019208	128
+1200552	[Shitei] Acute encephalopathy with biphasic seizures and late reduced diffusion	AESD	[指定] 痙攣重積型（二相性）急性脳症	痙攣重積型急性脳症	MONDO:0018198	129
+1200553	[Shitei] Congenital insensitivity to pain with anhidrosis	CIPA	[指定] 先天性無痛無汗症		MONDO:0009746	130
+1200554	[Shitei] Alexander disease	AxD	[指定] アレキサンダー病	Alexander病	MONDO:0008752	131
+1200558	[Shitei] Congenital suprabulbar paresis	Congenital supranuclear bulbar palsy|Worster-Drought syndrome	[指定] 先天性核上性球麻痺	ウースター・ドロート症候群	MONDO:0008503	132
+1200559	[Shitei] Moebius syndrome	Möbius syndrome	[指定] メビウス症候群	Moebius症候群	MONDO:0008006	133
+1200560	[Shitei] Septo-optic dysplasia / De Morsier syndrome	SOD	[指定] 中隔視神経形成異常症／ドモルシア症候群	中隔視神経形成異常症／De Morsier症候群	MONDO:0008428	134
+1200562	[Shitei] Aicardi syndrome		[指定] アイカルディ症候群	Aicardi症候群	MONDO:0010568	135
+1200563	[Shitei] Hemimegalencephaly		[指定] 片側巨脳症		MONDO:0020492	136
+1200564	[Shitei] Focal cortical dysplasia	FCD	[指定] 限局性皮質異形成	FCD	MONDO:0019009	137
+1200574	[Shitei] Neuronal migration defects	Lissencephaly|Nerve cell migration disorders|Miller-Dieker syndrom	[指定] 神経細胞移動異常症		MONDO:0018838	138
+1200575	[Shitei] Congenital hypomyelinating leukodystrophy	Congenital cerebral white matter aplasia	[指定] 先天性大脳白質形成不全症		MONDO:0019046	139
+1200587	[Shitei] Dravet syndrome	Dorabe syndrome	[指定] ドラベ症候群		MONDO:0100135	140
+1200588	[Shitei] Mesial temporal lobe epilepsy with bilateral hippocampal sclerosis	Mesial temporal lobe epilepsy with hippocampal sclerosis	[指定] 海馬硬化を伴う内側側頭葉てんかん		MONDO:0020476	141
+1200589	[Shitei] Myoclonic absence epilepsy	Epilepsy with myoclonic absence|EMA	[指定] ミオクロニー欠神てんかん		MONDO:0019487	142
+1200590	[Shitei] Epilepsy with myoclonic atonic seizures	Epilepsy with myoclonic cataplexy	[指定] ミオクロニー脱力発作を伴うてんかん		MONDO:0016025	143
+1200591	[Shitei] Lennox-Gastaut syndrome		[指定] レノックス・ガストー症候群	Lennox-Gastaut症候群	MONDO:0016532	144
+1200592	[Shitei] West syndrome	Infantile spasms	[指定] ウエスト症候群	点頭てんかん|West症候群	MONDO:0018097	145
+1200593	[Shitei] Ohtahara syndrome	Early infantile epileptic encephalopathy with suppression burst	[指定] 大田原症候群	早期乳児てんかん性脳症	MONDO:0100062	146
+1200594	[Shitei] Early myoclonic encephalopathy		[指定] 早期ミオクロニー脳症	EME	MONDO:0016022	147
+1200595	[Shitei] Epilepsy of infancy with migrating focal seizures	Infant epilepsy with migratory focus seizure|Migrating partial seizures in infancy|EIMFS	[指定] 遊走性焦点発作を伴う乳児てんかん		MONDO:0017385|MONDO:0100025	148
+1200596	[Shitei] Hemiconvulsion-hemiplegia-epilepsy syndrome	One side convulsions, hemiplegia epilepsy syndrome|HHE	[指定] 片側痙攣・片麻痺・てんかん症候群		MONDO:0019485	149
+1200597	[Shitei] Ring chromosome 20 syndrome	Ring chromosome 20 epilepsy syndrome	[指定] 環状20番染色体症候群		MONDO:0015436	150
+1200598	[Shitei] Rasmussen's encephalitis	Rasmussen encephalitis	[指定] ラスムッセン脳炎	Rasmussen脳炎	MONDO:0016019	151
+1200599	[Shitei] PCDH19-related syndrome	PCDH19 epilepsy|PCDH19-related epilepsy|Epilepsy and mental retardation limited to females|EFMR	[指定] PCDH19関連症候群	PCDH19関連てんかん	MONDO:0010246	152
+1200600	[Shitei] Acute encephalitis with refractory, repetitive partial seizures	Refractory frequent partial seizures intussusception acute encephalitis|AERRPS	[指定] 難治頻回部分発作重積型急性脳炎		MONDO:0015584	153
+1200601	[Shitei] Developmental and/or epileptic encephalopathy with spike-wave activation in sleep	Epilepsy with continuous spikes and waves during slow sleep|DEE-SWAS|EE-SWAS	[指定] 睡眠時棘徐波活性化を示す発達性てんかん性脳症およびてんかん性脳症		MONDO:0800501|MONDO:0022858	154
+1200602	[Shitei] Landau-Kleffner syndrome	Acquired aphasia with convulsive disorder	[指定] ランドウ・クレフナー症候群	Landau-Kleffner症候群	MONDO:0009509	155
+1200603	[Shitei] Rett syndrome		[指定] レット症候群	Rett症候群	MONDO:0010726	156
+1200606	[Shitei] Sturge-Weber syndrome		[指定] スタージ・ウェーバー症候群		MONDO:0008501	157
+1200607	[Shitei] Tuberous sclerosis complex	Tuberous sclerosis|TSC	[指定] 結節性硬化症		MONDO:0001734|MONDO:0019341	158
+1200608	[Shitei] Xeroderma pigmentosum	XP	[指定] 色素性乾皮症		MONDO:0019600	159
+1200609	[Shitei] Congenital ichthyosis		[指定] 先天性魚鱗癬		MONDO:0015947	160
+1200631	[Shitei] Benign familial pemphigus	Hailey-Hailey disease|Familial benign chronic pemphigus	[指定] 家族性良性慢性天疱瘡	ヘイリー・ヘイリー病	MONDO:0008218	161
+1200632	[Shitei] Pemphigoid (including Epidermolysis bullosa acquisita)	Pemphigoid	[指定] 類天疱瘡		MONDO:0019082	162
+1200636	[Shitei] Acquired idiopathic generalized anhidrosis	Idiopathic acquired systemic anhidrosis|Idiopathic pure sudomotor failure|AIGA	[指定] 特発性後天性全身性無汗症			163
+1200637	[Shitei] Oculocutaneous albinism	OCA	[指定] 眼皮膚白皮症		MONDO:0018910	164
+1200642	[Shitei] Pachydermoperiostosis	PDP	[指定] 肥厚性皮膚骨膜症		MONDO:0009799|MONDO:0016620	165
+1200643	[Shitei] Pseudoxanthoma elasticum	PXE	[指定] 弾性線維性仮性黄色腫	PXE	MONDO:0024308	166
+1200644	[Shitei] Marfan syndrome/Loeys-Dietz Syndrome	Marfan syndrome|Loeys-Dietz Syndrome	[指定] マルファン症候群／ロイス・ディーツ症候群	Marfan症候群|マルファン症候群	MONDO:0007947	167
+1200645	[Shitei] Ehlers-Danlos Syndrome	EDS	[指定] エーラス・ダンロス症候群		MONDO:0020066	168
+1200653	[Shitei] Menkes disease		[指定] メンケス病		MONDO:0010651	169
+1200654	[Shitei] Occipital horn syndrome		[指定] オクシピタル・ホーン症候群		MONDO:0010572	170
+1200655	[Shitei] Wilson disease		[指定] ウィルソン病	Wilson病	MONDO:0010200	171
+1200656	[Shitei] Hypophosphatasia		[指定] 低ホスファターゼ症		MONDO:0018570	172
+1200657	[Shitei] VATER syndrome	VATER association	[指定] VATER症候群		MONDO:0008642	173
+1200658	[Shitei] Nasu-Hakola disease		[指定] 那須・ハコラ病		MONDO:0009092	174
+1200659	[Shitei] Weaver syndrome		[指定] ウィーバー症候群	Weaver症候群	MONDO:0010193	175
+1200660	[Shitei] Coffin-Lowry syndrome		[指定] コフィン・ローリー症候群	Coffin-Lowry症候群	MONDO:0010561	176
+1200661	[Shitei] Joubert syndrome and related disorders	Cerebro-oculo-hepato-renal syndrome	[指定] ジュベール症候群関連疾患		MONDO:0015369	177
+1200663	[Shitei] Mowat-Wilson syndrome		[指定] モワット・ウィルソン症候群	Mowat-Wilson症候群	MONDO:0009341	178
+1200664	[Shitei] Williams syndrome		[指定] ウィリアムズ症候群	Williams症候群	MONDO:0008678	179
+1200665	[Shitei] ATR-X syndrome	Alpha-thalassemia/mental retardation syndrome|X-linked a-thalassemia/intellectual disability syndrome	[指定] ATR-X症候群	X連鎖αサラセミア・精神遅滞症候群	MONDO:0010519	180
+1200666	[Shitei] Crouzon's syndrome	Crouzon syndrome	[指定] クルーゾン症候群	Crouzon症候群	MONDO:0007405	181
+1200667	[Shitei] Apert syndrome		[指定] アペール症候群	Apert症候群	MONDO:0007041	182
+1200668	[Shitei] Pfeiffer syndrome		[指定] ファイファー症候群	Pfeiffer症候群	MONDO:0005810|MONDO:0007043	183
+1200669	[Shitei] Antley-Bixler syndrome	Antley-Bixler Syndrome Phenotype	[指定] アントレー・ビクスラー症候群		MONDO:0008803	184
+1200670	[Shitei] Coffin-Siris syndrome		[指定] コフィン・シリス症候群	Coffin-Siris症候群	MONDO:0015452	185
+1200671	[Shitei] Rothmund-Thomson syndrome		[指定] ロスムンド・トムソン症候群		MONDO:0010002	186
+1200672	[Shitei] Kabuki syndrome		[指定] 歌舞伎症候群		MONDO:0016512	187
+1200673	[Shitei] Polysplenia syndrome		[指定] 多脾症候群			188
+1200674	[Shitei] Asplenia syndrome		[指定] 無脾症候群			189
+1200675	[Shitei] Branchio-oto-renal syndrome	BOR syndrome	[指定] 鰓耳腎症候群	BOR症候群	MONDO:0007029|MONDO:0018878	190
+1200676	[Shitei] Werner syndrome		[指定] ウェルナー症候群		MONDO:0010196	191
+1200677	[Shitei] Cockayne syndrome		[指定] コケイン症候群	Cockayne症候群	MONDO:0016006	192
+1200678	[Shitei] Prader-Willi syndrome		[指定] プラダー・ウィリ症候群	Prader-Willi症候群	MONDO:0008300	193
+1200679	[Shitei] Sotos syndrome		[指定] ソトス症候群	Sotos症候群	MONDO:0019349	194
+1200680	[Shitei] Noonan syndrome		[指定] ヌーナン症候群	Noonan症候群	MONDO:0018997	195
+1200681	[Shitei] Young-Simpson syndrome		[指定] ヤング・シンプソン症候群	Young-Simpson症候群	MONDO:0011365	196
+1200682	[Shitei] 1p36 deletion syndrome		[指定] 1ｐ36欠失症候群		MONDO:0011929	197
+1200683	[Shitei] 4p deletion syndrome	4p-syndrome|Wolf-Hirschhorn syndrome	[指定] 4p欠失症候群	ウォルフ・ヒルシュホーン症候群	MONDO:0008684	198
+1200684	[Shitei] 5p deletion syndrome	5p-syndrome	[指定] 5p欠失症候群	5p-症候群	MONDO:0007404	199
+1200685	[Shitei] Paternal uniparental disomy of chromosome 14	No. 14 chromosome father disomy syndrome|Kagami-Ogata syndrome|Paternal uniparental disomy 14	[指定] 第14番染色体父親性ダイソミー症候群		MONDO:0011975	200
+1200686	[Shitei] Angelman syndrome		[指定] アンジェルマン症候群	Angelman症候群	MONDO:0007113	201
+1200687	[Shitei] Smith-Magenis syndrome		[指定] スミス・マギニス症候群	Smith-Magenis症候群	MONDO:0008434	202
+1200688	[Shitei] 22q11.2 deletion syndrome	Chromosome 22q11.2 deletion syndrome	[指定] 22q11.2欠失症候群		MONDO:0008564|MONDO:0008644|MONDO:0018923	203
+1200689	[Shitei] Emanuel syndrome		[指定] エマヌエル症候群		MONDO:0012176	204
+1200690	[Shitei] Fragile X syndrome related diseases	Fragile X-associated tremor/ataxia syndrome|Fragile X-associated disorders|Fragile X syndrome and associated disorders	[指定] 脆弱Ｘ症候群関連疾患		MONDO:0010382	205
+1200692	[Shitei] Fragile X syndrome		[指定] 脆弱X症候群		MONDO:0010383	206
+1200693	[Shitei] Truncus arteriosus communis		[指定] 総動脈幹遺残症		MONDO:0018072	207
+1200698	[Shitei] Corrected transposition of great arteries	Corrected transposition of the great arteries	[指定] 修正大血管転位症		MONDO:0019443	208
+1200699	[Shitei] Complete transposition of the great arteries	Complete TGA	[指定] 完全大血管転位症		MONDO:0016301	209
+1200704	[Shitei] Single ventricle	Univentricular heart	[指定] 単心室症		MONDO:0015451	210
+1200705	[Shitei] Hypoplastic left heart syndrome		[指定] 左心低形成症候群		MONDO:0004933	211
+1200706	[Shitei] Tricuspid atresia		[指定] 三尖弁閉鎖症		MONDO:0011514	212
+1200707	[Shitei] Pulmonary atresia with intact ventricular septum	Pulmonary atresia without ventricular septum defect	[指定] 心室中隔欠損を伴わない肺動脈閉鎖症		MONDO:0009931	213
+1200708	[Shitei] Pulmonary atresia with ventricular septal defect		[指定] 心室中隔欠損を伴う肺動脈閉鎖症	極型ファロー四徴症	MONDO:0008343	214
+1200709	[Shitei] Tetralogy of Fallot	Fallot's Tetralogy	[指定] ファロー四徴症		MONDO:0008542	215
+1200710	[Shitei] Double outlet right ventricle		[指定] 両大血管右室起始症		MONDO:0018089	216
+1200711	[Shitei] Ebstein's anomaly	Ebstein anomaly|Ebstein's malformation|Ebstein malformation	[指定] エプスタイン病	Ebstein病|Ebstein奇形	MONDO:0009144	217
+1200712	[Shitei] Alport's syndrome	Alport syndrome	[指定] アルポート症候群	Alport症候群	MONDO:0018965	218
+1200713	[Shitei] Galloway-Mowat syndrome		[指定] ギャロウェイ・モワト症候群	Galloway-Mowat症候群	MONDO:0009627	219
+1200714	[Shitei] Rapidly progressive glomerulonephritis	Crescentic glomerulonephritis	[指定] 急速進行性糸球体腎炎		MONDO:0001645|MONDO:0017236	220
+1200718	[Shitei] Goodpasture syndrome	Anti-glomerular basement membrane disease|Anti-GBM nephritis	[指定] 抗糸球体基底膜腎炎	グッドパスチャー症候群|Goodpasture症候群	MONDO:0009303	221
+1200719	[Shitei] Primary nephrotic syndrome		[指定] 一次性ネフローゼ症候群		MONDO:0018170	222
+1200725	[Shitei] Primary membranoproliferative glomerulonephritis	Primary MPGN	[指定] 一次性膜性増殖性糸球体腎炎		MONDO:0018904	223
+1200741	[Shitei] Henoch-Schonlein purpura nephritis	Henoch-Schönlein purpura nephritis|HSPN	[指定] 紫斑病性腎炎		MONDO:0006785	224
+1200742	[Shitei] Congenital nephrogenic diabetes insipidus	Nephrogenic diabetes insipidus	[指定] 先天性腎性尿崩症	遺伝性腎性尿崩症	MONDO:0016383	225
+1200743	[Shitei] Interstitial cystitis (Hunner type)	Interstitial cystitis|Interstitial cystitis with Hunner's ulcer	[指定] 間質性膀胱炎（ハンナ型）		MONDO:0018301	226
+1200744	[Shitei] Osler disease	Hereditary hemorrhagic telangiectasia|Hereditary haemorrhagic telangiectasia	[指定] オスラー病	遺伝性出血性末梢血管拡張症	MONDO:0019180	227
+1200745	[Shitei] Bronchiolitis obliterans	Obliterating bronchiolitis	[指定] 閉塞性細気管支炎		MONDO:0015265	228
+1200746	[Shitei] Pulmonary alveolar proteinosis	PAP	[指定] 肺胞蛋白症		MONDO:0001437|MONDO:0012580	229
+1200751	[Shitei] Alveolar hypoventilation syndrome	AHS	[指定] 肺胞低換気症候群		MONDO:0008346	230
+1200755	[Shitei] Alpha-1-antitrypsin deficiency	AATD|α-1-antitrypsin deficiency	[指定] α1-アンチトリプシン欠損症		MONDO:0013282	231
+1200756	[Shitei] Carney complex		[指定] カーニー複合	Carney複合	MONDO:0015285	232
+1200757	[Shitei] Wolfram syndrome		[指定] ウォルフラム症候群	Wolfram症候群	MONDO:0018105	233
+1200758	[Shitei] Peroxisomal disorder	Peroxisomal disease	[指定] ペルオキシソーム病		MONDO:0019053	234
+1200775	[Shitei] Hypoparathyroidism	Accessory thyroid hypergasia disease	[指定] 副甲状腺機能低下症		MONDO:0001220|MONDO:0015895	235
+1200776	[Shitei] Pseudohypoparathyroidism		[指定] 偽性副甲状腺機能低下症		MONDO:0019992	236
+1200777	[Shitei] ACTH unresponsiveness	Adrenocorticotropic hormone unresponsiveness|Adrenocorticotropic hormone insensitivity|Adrenocorticotropin unresponsiveness	[指定] 副腎皮質刺激ホルモン不応症	ACTH不応症		237
+1200778	[Shitei] Vitamin D-resistant rickets/Vitamin D-resistant osteomalacia	Vitamin D Resistant Rickets / Osteomalacia	[指定] ビタミンＤ抵抗性くる病/骨軟化症	低リン血症性くる病・骨軟化症	MONDO:0024300	238
+1200781	[Shitei] Vitamin D-dependent rickets / Osteomalacia	Vitamin D-dependent osteomalacia	[指定] ビタミンＤ依存性くる病/骨軟化症		MONDO:0024299	239
+1200784	[Shitei] Phenylketonuria	PKU|Hyperphenylalaninemia|HPA	[指定] フェニルケトン尿症	高フェニルアラニン血症	MONDO:0009861	240
+1200788	[Shitei] Tyrosinemia type 1	Tyrosinaemia type 1	[指定] 高チロシン血症1型		MONDO:0010161	241
+1200789	[Shitei] Tyrosinemia type 2	Tyrosinaemia type 2	[指定] 高チロシン血症2型		MONDO:0010160	242
+1200790	[Shitei] Tyrosinemia type 3	Tyrosinaemia type 3	[指定] 高チロシン血症3型		MONDO:0010162	243
+1200791	[Shitei] Maple syrup urine disease	MSUD	[指定] メープルシロップ尿症		MONDO:0009563	244
+1200792	[Shitei] Propionic acidemia	Propionic acidaemia|PA	[指定] プロピオン酸血症		MONDO:0011628	245
+1200793	[Shitei] Methylmalonic acidemia	Methylmalonic acidaemia|MMA	[指定] メチルマロン酸血症		MONDO:0002012	246
+1200798	[Shitei] Isovaleric acidemia	Isovaleric acidaemia	[指定] イソ吉草酸血症		MONDO:0009475	247
+1200799	[Shitei] Glucose transporter 1 deficiency	GLUT-1 deficiency|GLUT-1 DS	[指定] グルコーストランスポーター1欠損症	GLUT1欠損症	MONDO:0000188|MONDO:0011724	248
+1200800	[Shitei] Glutaric acidemia type 1	Glutaric acidaemia type 1|Glutaryl-CoA dehydrogenase deficiency|GA1	[指定] グルタル酸血症1型		MONDO:0009281	249
+1200801	[Shitei] Glutaric acidemia type 2	Glutaric acidaemia type 2|Multiple acyl-CoA dehydrogenase deficiency|GA2	[指定] グルタル酸血症2型		MONDO:0009282	250
+1200802	[Shitei] Urea cycle disorder		[指定] 尿素サイクル異常症		MONDO:0004739	251
+1200809	[Shitei] Lysinuric protein intolerance		[指定] リジン尿性蛋白不耐症		MONDO:0009109	252
+1200810	[Shitei] Hereditary folate malabsorption	Congenital folate malabsorption	[指定] 先天性葉酸吸収不全症		MONDO:0009238	253
+1200811	[Shitei] Porphyria		[指定] ポルフィリン症		MONDO:0037939	254
+1200820	[Shitei] Multiple carboxylase deficiency		[指定] 複合カルボキシラーゼ欠損症		MONDO:0015454	255
+1200823	[Shitei] Muscle glycogen storage disease	Glycogen storage disease type VII|Skeletal muscle glycogenosis|Muscular glycogenosis	[指定] 筋型糖原病		MONDO:0009295|MONDO:0016118	256
+1200838	[Shitei] Hepatic glycogen storage disease	Hepatic glycogenosis	[指定] 肝型糖原病		MONDO:0002412|MONDO:0009414	257
+1200851	[Shitei] Galactose-1-phosphate uridyltransferase deficiency	Galactose-1-phosphate uridylyltransferase deficiency|Galactosemia type 1|GALT deficiency	[指定] ガラクトース-1-リン酸ウリジルトランスフェラーゼ欠損症	GALT欠損症|ガラクトース血症I 型	MONDO:0009258	258
+1200852	[Shitei] Lecithin cholesterol acyltransferase deficiency	LCAT deficiency	[指定] レシチンコレステロールアシルトランスフェラーゼ欠損症	LCAT欠損症	MONDO:0009515|MONDO:0018999	259
+1200853	[Shitei] Sitosterolemia	Sitosterolaemia	[指定] シトステロール血症		MONDO:0008863	260
+1200854	[Shitei] Tangier disease		[指定] タンジール病	Tangier病	MONDO:0008783	261
+1200855	[Shitei] Primary hyperchylomicronemia	Primary hyperchylomicronaemia	[指定] 原発性高カイロミクロン血症			262
+1200856	[Shitei] Cerebrotendinous xanthomatosis	CTX	[指定] 脳腱黄色腫症	27-ヒドロキシラーゼ欠損症	MONDO:0008948	263
+1200857	[Shitei] Abetalipoproteinemia	Abetalipoproteinaemia	[指定] 無βリポタンパク血症	MTP欠損症	MONDO:0008692	264
+1200858	[Shitei] Lipodystrophy		[指定] 脂肪萎縮症	脂肪異栄養症	MONDO:0006573	265
+1200863	[Shitei] Familial Mediterranean fever	FMF	[指定] 家族性地中海熱		MONDO:0018088	266
+1200866	[Shitei] Hyper IgD syndrome	Hyperimmunoglobulinemia D and periodic fever syndrome|Mevalonate kinase deffiency|MKD|HIDS	[指定] 高IgD症候群	メバロン酸キナーゼ欠損症	MONDO:0009849|MONDO:0012481	267
+1200867	[Shitei] Nakajo-Nishimura syndrome	Autoinflammation, lipodystrophy, and dermatosis syndrome|CANDLE syndrome|Chronic atypical neutrophilic dermatosis with lipodystrophy and elevated temperature syndrome|JMP syndrome|Joint contractures, muscle atrophy, microcytic anemia, and panniculitis induced lipodystrophy	[指定] 中條・西村症候群	脂肪異栄養症および発熱を伴う慢性非典型的好中球性皮膚疾患症候群|関節拘縮、筋委縮、小球性貧血、脂肪異栄養症誘因性脂肪織炎	MONDO:0009726	268
+1200868	[Shitei] Pyogenic arthritis, pyoderma gangrenosum, acne syndrome	PAPA syndrome|Pyogenic arthritis, pyoderma gangrenosum and acne syndrome	[指定] 化膿性無菌性関節炎・壊疽性膿皮症・アクネ症候群	PAPA症候群	MONDO:0011462	269
+1200869	[Shitei] Chronic recurrent multifocal osteomyelitis	CRMO	[指定] 慢性再発性多発性骨髄炎	CRMO	MONDO:0009813	270
+1200870	[Shitei] Ankylosing spondylitis	Spondylarthritis ankylopoietica	[指定] 強直性脊椎炎		MONDO:0005306	271
+1200871	[Shitei] Fibrodysplasia ossificans progressiva	FOP	[指定] 進行性骨化性線維異形成症	FOP	MONDO:0003964|MONDO:0007606	272
+1200872	[Shitei] Congenital scoliosis with rib anomalies	Congenital scoliosis with rib anomaly	[指定] 肋骨異常を伴う先天性側弯症			273
+1200873	[Shitei] Osteogenesis imperfecta		[指定] 骨形成不全症		MONDO:0019019	274
+1200874	[Shitei] Thanatophoric dysplasia	TD	[指定] タナトフォリック骨異形成症		MONDO:0017042	275
+1200877	[Shitei] Achondroplasia		[指定] 軟骨無形成症		MONDO:0007037	276
+1200878	[Shitei] Lymphangiomatosis / Gorham-Stout disease	Lymphangiomatosis/Gorham disease	[指定] リンパ管腫症/ゴーハム病		MONDO:0003157|MONDO:0007414	277
+1200881	[Shitei] Giant lymphatic malformation (cervicofacial lesion)	Huge lymphatic malformation|Huge lymphatic malformation with cervicofacial lesion	[指定] 巨大リンパ管奇形（頚部顔面病変）		MONDO:0016233|MONDO:0019328	278
+1200882	[Shitei] Giant venous malformation (cervical, oral and oropharyngeal diffuse lesion)	Huge venous malformation|Huge venous malformation with cervical, oral and pharyngeal diffuse lesion	[指定] 巨大静脈奇形（頚部口腔咽頭びまん性病変）			279
+1200883	[Shitei] Huge arteriovenous malformation with cervicofacial or limb lesion	gigantic arteriovenous malformation (cervicofacial/limb lesion)	[指定] 巨大動静脈奇形（頚部顔面又は四肢病変）			280
+1200884	[Shitei] Klippel-Trenaunay-Weber syndrome	Klippel-Trénanay-Weber syndrome	[指定] クリッペル・トレノネー・ウェーバー症候群		MONDO:0007864	281
+1200885	[Shitei] Congenital dyserythropoietic anemia	Congenital dyserythropoietic anaemia|CDA	[指定] 先天性赤血球形成異常性貧血		MONDO:0019403	282
+1200889	[Shitei] Acquired pure red cell aplasia		[指定] 後天性赤芽球癆		MONDO:0020338	283
+1200890	[Shitei] Diamond-Blackfan anemia	Diamond-Blackfan anaemia|Congenital red cell aplasia	[指定] ダイアモンド・ブラックファン貧血	先天性赤芽球癆|Diamond-Blackfan貧血	MONDO:0015253	284
+1200891	[Shitei] Fanconi anemia	Fanconi anaemia	[指定] ファンコニ貧血		MONDO:0019391	285
+1200892	[Shitei] Hereditary sideroblastic anemia	Hereditary sideroblastic anaemia	[指定] 遺伝性鉄芽球性貧血		MONDO:0020099	286
+1200893	[Shitei] Epstein syndrome		[指定] エプスタイン症候群	Epstein症候群	MONDO:0007954	287
+1200896	[Shitei] Autoimmune acquired coagulation factor deficiency	AiCFD	[指定] 自己免疫性後天性凝固因子欠乏症		MONDO:0020599	288
+1200901	[Shitei] Cronkhite-Canada syndrome		[指定] クロンカイト・カナダ症候群	Cronkhite-Canada症候群	MONDO:0008283	289
+1200902	[Shitei] Chronic nonspecific multiple ulcers of the small intestine	Chronic enteropathy associated with SLCO2A1|CEAS	[指定] 非特異性多発性小腸潰瘍症			290
+1200903	[Shitei] Hirschsprung disease	Hirschsprung Disease (Entire Colon type / Extensive type)|Hirschsprung's disease	[指定] ヒルシュスプルング病	Hirschsprung病	MONDO:0018309	291
+1200909	[Shitei] Cloacal exstrophy		[指定] 総排泄腔外反症		MONDO:0009774	292
+1200910	[Shitei] Persistent cloaca		[指定] 総排泄腔遺残		MONDO:0009774	293
+1200911	[Shitei] Congenital diaphragmatic hernia	CDH	[指定] 先天性横隔膜ヘルニア		MONDO:0005711	294
+1200912	[Shitei] Infantile giant hepatic hemangiomas	Infantile giant hepatic haemangiomas	[指定] 乳幼児肝巨大血管腫			295
+1200913	[Shitei] Biliary atresia	BA	[指定] 胆道閉鎖症		MONDO:0008867|MONDO:0028737	296
+1200918	[Shitei] Alagille syndrome	AGS	[指定] アラジール症候群	Alagille症候群	MONDO:0007318	297
+1200921	[Shitei] Hereditary pancreatitis		[指定] 遺伝性膵炎		MONDO:0008185	298
+1200922	[Shitei] Cystic fibrosis	CF	[指定] 嚢胞性線維症		MONDO:0009061	299
+1200923	[Shitei] IgG4-related disease	IgG4-RD	[指定] IgG4関連疾患		MONDO:0017287	300
+1200931	[Shitei] Macular dystrophy		[指定] 黄斑ジストロフィー		MONDO:0020242	301
+1200940	[Shitei] Leber hereditary optic neuropathy	LHON	[指定] レーベル遺伝性視神経症	レーベル病	MONDO:0010788	302
+1200941	[Shitei] Usher syndrome		[指定] アッシャー症候群	Usher症候群	MONDO:0019501	303
+1200945	[Shitei] Juvenile bilateral sensorineural hearing loss	Juvenile-onset bilateral sensorineural hearing loss	[指定] 若年発症型両側性感音難聴			304
+1200946	[Shitei] Delayed endolymphatic hydrops		[指定] 遅発性内リンパ水腫			305
+1200947	[Shitei] Eosinophilic sinusitis		[指定] 好酸球性副鼻腔炎			306
+1200948	[Shitei] Canavan disease		[指定] カナバン病		MONDO:0010079	307
+1200949	[Shitei] Progressive leukoencephalopathy	Leukoencephalopathy	[指定] 進行性白質脳症			308
+1200953	[Shitei] Progressive myoclonus epilepsy	PME	[指定] 進行性ミオクローヌスてんかん		MONDO:0020074	309
+1200957	[Shitei] Congenital anomalies syndrome	Malformative syndrome|Congenital malformation syndrome	[指定] 先天異常症候群		MONDO:0000839	310
+1200962	[Shitei] Congenital tricuspid stenosis	Tricuspid atresia|Congenital tricuspid atresia|Congenital tricuspid valve stenosis	[指定] 先天性三尖弁狭窄症		MONDO:0011514|MONDO:0019813	311
+1200963	[Shitei] Congenital mitral stenosis	Mitral stenosis|Mitral valve stenosis|Congenital mitral valve stenosis	[指定] 先天性僧帽弁狭窄症		MONDO:0005852|MONDO:0020398	312
+1200964	[Shitei] Congenital pulmonary vein stenosis	Congenital pulmonary venous obstruction	[指定] 先天性肺静脈狭窄症		MONDO:0017864	313
+1200965	[Shitei] Vascular sling	PA sling|Pulmonary artery sling	[指定] 左肺動脈右肺動脈起始症			314
+1200966	[Shitei] Nail-patella syndrome/LMX1B-associated nephropathy		[指定] ネイルパテラ症候群（爪膝蓋骨症候群）／ＬＭＸ１Ｂ関連腎症	Nail-patella症候群		315
+1200969	[Shitei] Carnitine cycle disorders		[指定] カルニチン回路異常症		MONDO:0017716	316
+1200974	[Shitei] Trifunctional protein deficiency	mitochondrial trifunctional protein deficiency|TFP deficiency	[指定] 三頭酵素欠損症		MONDO:0012172	317
+1200978	[Shitei] Citrin deficiency		[指定] シトリン欠損症		MONDO:0016602	318
+1200982	[Shitei] Sepiapterin reductase deficiency	SRD	[指定] セピアプテリン還元酵素欠損症	ＳＲ欠損症	MONDO:0012994	319
+1200983	[Shitei] Inherited glycosylphosphatidylinositol deficiency	IGD	[指定] 先天性グリコシルホスファチジルイノシトール欠損症	先天性GPI欠損症	MONDO:0012465	320
+1200984	[Shitei] Nonketotic hyperglycinemia	Nonketotic hyperglycinaemia|NKH	[指定] 非ケトーシス型高グリシン血症		MONDO:0011612	321
+1200987	[Shitei] Beta-ketothiolase deficiency	β-ketothiolase deficiency	[指定] β-ケトチオラーゼ欠損症		MONDO:0008760	322
+1200988	[Shitei] Aromatic L-amino acid decarboxylase deficiency		[指定] 芳香族L－アミノ酸脱炭酸酵素欠損症		MONDO:0012084	323
+1200989	[Shitei] Methylglutaconic aciduria		[指定] メチルグルタコン酸尿症		MONDO:0017359	324
+1200993	[Shitei] Hereditary autoinflammatory syndrome	Hereditary autoinflammatory diseases	[指定] 遺伝性自己炎症疾患			325
+1200998	[Shitei] Osteopetrosis		[指定] 大理石骨病		MONDO:0017198	326
+1200999	[Shitei] Idiopathic thrombosis (due to inherited predisposition to thrombosis) (neonates, infants)		[指定] 特発性血栓症			327
+1201000	[Shitei] Anterior segment dysgenesis	ASGD1|ASD	[指定] 前眼部形成異常		MONDO:0019503	328
+1201001	[Shitei] Aniridia		[指定] 無虹彩症		MONDO:0019172	329
+1201002	[Shitei] Congenital tracheal stenosis/congenital subglottic stenosis		[指定] 先天性気管狭窄症／先天性声門下狭窄症			330
+1201005	[Shitei] Idiopathic multicentric Castleman's disease		[指定] 特発性多中心性キャッスルマン病			331
+1201006	[Shitei] Gelatinous drop-like corneal dystrophy	GDLD	[指定] 膠様滴状角膜ジストロフィー		MONDO:0008777	332
+1201007	[Shitei] Hutchinson-Gilford syndrome	Hutchinson-Gilford progeria syndrome|HGPS	[指定] ハッチンソン・ギルフォード症候群		MONDO:0008310	333
+1201032	[Shitei] Cerebral creatine deficiency syndromes	CCDSs	[指定] 脳クレアチン欠乏症候群		MONDO:0000456	334
+1201036	[Shitei] Nephronophthisis	NPH	[指定] ネフロン癆		MONDO:0009728|MONDO:0019005	335
+1201037	[Shitei] Homozygous familial hypobetalipoproteinemia 1		[指定] 家族性低βリポタンパク血症1（ホモ接合体）		MONDO:0014252	336
+1201038	[Shitei] Homocystinuria		[指定] ホモシスチン尿症		MONDO:0004737	337
+1201042	[Shitei] Progressive familial intrahepatic cholestasis	PFIC	[指定] 進行性家族性肝内胆汁うっ滞症		MONDO:0015762	338
+1201095	[Shitei] MECP2 Duplication Syndrome		[指定] MECP2重複症候群		MONDO:0010283	339
+1201096	[Shitei] Primary ciliary dyskinesia (including Kartagener syndrome)	PCD	[指定] 線毛機能不全症候群（カルタゲナー症候群を含む。）		MONDO:0016575	340
+1201098	[Shitei] Transient receptor potential cation channel, vanilloid subfamily, member 4 (TRPV4) -associated disorders		[指定] TRPV4異常症		MONDO:0018240	341
+2100260	[Shoman] Autoimmune enteropathy (including IPEX syndrome)		[小慢] 自己免疫性腸症（IPEX症候群を含む。）			3
+2200001	[Shoman] B-cell precursor lymphoblastic leukemia	B-cell precursor lymphoblastic leukaemia	[小慢] 前駆B細胞急性リンパ性白血病		MONDO:0020511	80
+2200002	[Shoman] Mature B-cell lymphoblastic leukemia	Mature B-cell acute lymphoblastic leukemia|Acute lymphoblastic leukemia|ALL	[小慢] 成熟B細胞急性リンパ性白血病	急性リンパ芽球性白血病	MONDO:0000872	77
+2200003	[Shoman] T-cell lymphoblastic leukemia	T-cell lymphoblastic leukaemia|Acute lymphoblastic leukemia|ALL	[小慢] T細胞急性リンパ性白血病	急性リンパ芽球性白血病	MONDO:0004963	81
+2200004	[Shoman] Acute myeloid leukemia with minimal differentiation	Acute myeloid leukaemia with minimal differentiation	[小慢] 急性骨髄性白血病、最未分化		MONDO:0005223	71
+2200005	[Shoman] Acute myeloid leukemia without maturation	Acute myeloid leukaemia without maturation	[小慢] 成熟を伴わない急性骨髄性白血病		MONDO:0005224	79
+2200006	[Shoman] Acute myeloid leukemia with maturation	Acute myeloid leukaemia with maturation	[小慢] 成熟を伴う急性骨髄性白血病		MONDO:0020320	78
+2200007	[Shoman] Acute promyelocytic leukemia	Acute promyelocytic leukaemia	[小慢] 急性前骨髄球性白血病		MONDO:0012883	74
+2200008	[Shoman] Acute monocytic leukemia	Acute monocytic leukaemia	[小慢] 急性骨髄単球性白血病		MONDO:0000875|MONDO:0007896	72
+2200009	[Shoman] Acute monocytic leukemia	Acute monocytic leukaemia	[小慢] 急性単球性白血病		MONDO:0000875|MONDO:0007896	75
+2200010	[Shoman] Acute erythremia	Acute erythraemia|Di Guglielmo's disease	[小慢] 急性赤白血病		MONDO:0017858	73
+2200011	[Shoman] Acute megakaryoblastic leukemia	Acute megakaryoblastic leukaemia	[小慢] 急性巨核芽球性白血病		MONDO:0018872	70
+2200012	[Shoman] NK cell leukemia	NK cell leukaemia	[小慢] NK細胞白血病	ナチュラルキラー細胞白血病	MONDO:0019470	82
+2200013	[Shoman] Chronic myeloid leukemia	Chronic myeloid leukaemia|CML| Chronic myelogenous leukemia	[小慢] 慢性骨髄性白血病		MONDO:0011996	83
+2200014	[Shoman] Chronic myelomonocytic leukemia	Chronic myelomonocytic leukaemia|CMML	[小慢] 慢性骨髄単球性白血病		MONDO:0011908|MONDO:0020311	84
+2200015	[Shoman] Juvenile myelomonocytic leukemia	Juvenile myelomonocytic leukaemia|JMML	[小慢] 若年性骨髄単球性白血病	JMML	MONDO:0011908	76
+2200016	[Shoman] Other leukemia	Other leukaemia	[小慢] 1から15までに掲げるもののほか、白血病			85
+2200019	[Shoman] Myelodysplastic syndrome	MDS	[小慢] 骨髄異形成症候群	MDS	MONDO:0018881|MONDO:0044873	44
+2200020	[Shoman] Mature B-cell lymphoma	B-NHL	[小慢] 成熟B細胞リンパ腫	B-NHL	MONDO:0015759	86
+2200021	[Shoman] Anaplastic large cell lymphoma	ALCL	[小慢] 未分化大細胞リンパ腫	ALCL	MONDO:0020325	90
+2200022	[Shoman] Precursor B lymphoblastic lymphoma		[小慢] Bリンパ芽球性リンパ腫		MONDO:0020511	88
+2200023	[Shoman] Precursor T lymphoblastic lymphoma		[小慢] Tリンパ芽球性リンパ腫		MONDO:0044917	87
+2200024	[Shoman] Hodgkin lymphoma	HL	[小慢] ホジキンリンパ腫	Hodgkinリンパ腫	MONDO:0004952	89
+2200025	[Shoman] Other malignant lymphomas		[小慢] 18から22までに掲げるもののほか、リンパ腫			91
+2200031	[Shoman] Langerhans cell histiocytosis	LCH	[小慢] ランゲルハンス細胞組織球症	Langerhans細胞組織球症	MONDO:0017025|MONDO:0017029|MONDO:0018310	46
+2200032	[Shoman] Hemophagocytic lymphohistiocytosis	HLH|Haemophagocytic lymphohistiocytosis	[小慢] 血球貪食性リンパ組織球症	HLH	MONDO:0015540	45
+2200033	[Shoman] Other histiocytosis		[小慢] 24及び25に掲げるもののほか、組織球症			47
+2200040	[Shoman] Neuroblastoma		[小慢] 神経芽腫		MONDO:0005072	20
+2200041	[Shoman] Ganglioneuroblastoma		[小慢] 神経節芽腫		MONDO:0005035	21
+2200042	[Shoman] Retinoblastoma		[小慢] 網膜芽細胞腫		MONDO:0008380	40
+2200043	[Shoman] Wilms tumour	Nephroblastoma	[小慢] ウィルムス腫瘍／腎芽腫	Wilms腫瘍|腎芽腫	MONDO:0019004	5
+2200044	[Shoman] Clear cell sarcoma of the kidney		[小慢] 腎明細胞肉腫		MONDO:0005006	23
+2200045	[Shoman] Renal cell carcinoma		[小慢] 腎細胞癌		MONDO:0005086|MONDO:0005549	22
+2200046	[Shoman] Hepatoblastoma		[小慢] 肝芽腫		MONDO:0018666	9
+2200047	[Shoman] Hepatocellular carcinoma		[小慢] 肝細胞癌		MONDO:0007256	10
+2200048	[Shoman] Osteosarcoma		[小慢] 骨肉腫		MONDO:0002623|MONDO:0009807	15
+2200049	[Shoman] Osteochondromatosis		[小慢] 骨軟骨腫症		MONDO:0005508|MONDO:0008145	14
+2200050	[Shoman] Chondrosarcoma		[小慢] 軟骨肉腫		MONDO:0008977	32
+2200051	[Shoman] Chondroblastoma		[小慢] 軟骨芽細胞腫		MONDO:0004997	31
+2200052	[Shoman] Malignancy in giant cell tumour of bone		[小慢] 悪性骨巨細胞腫		MONDO:0006287	3
+2200053	[Shoman] Ewing's sarcoma	Ewing sarcoma	[小慢] ユーイング肉腫	Ewing肉腫	MONDO:0012817	41
+2200054	[Shoman] Primitive neuroectodermal tumors		[小慢] 未分化神経外胚葉性腫瘍（末梢性のものに限る。）		MONDO:0018271	36
+2200056	[Shoman] Rhabdomyosarcoma		[小慢] 横紋筋肉腫		MONDO:0005212	6
+2200057	[Shoman] Malignant rhabdoid tumour		[小慢] 悪性ラブドイド腫瘍		MONDO:0002728	4
+2200058	[Shoman] Undifferentiated sarcoma		[小慢] 未分化肉腫		MONDO:0005102	37
+2200059	[Shoman] Desmoplastic small round cell tumors	DSRCT	[小慢] 線維形成性小円形細胞腫瘍		MONDO:0019373	26
+2200060	[Shoman] Fibrosarcoma		[小慢] 線維肉腫		MONDO:0002676|MONDO:0002678|MONDO:0005164	27
+2200061	[Shoman] Synovial sarcoma		[小慢] 滑膜肉腫		MONDO:0010434	8
+2200062	[Shoman] Clear cell sarcoma		[小慢] 明細胞肉腫		MONDO:0002926	39
+2200063	[Shoman] Alveolar soft part sarcoma		[小慢] 胞巣状軟部肉腫		MONDO:0011655	35
+2200064	[Shoman] Leiomyosarcoma		[小慢] 平滑筋肉腫		MONDO:0005058	34
+2200065	[Shoman] Liposarcoma		[小慢] 脂肪肉腫		MONDO:0003585|MONDO:0003587|MONDO:0005060	17
+2200066	[Shoman] Dysgerminoma		[小慢] 未分化胚細胞腫		MONDO:0003002	38
+2200067	[Shoman] Embryonal carcinoma		[小慢] 胎児性癌		MONDO:0005440	28
+2200068	[Shoman] Polyembryoma		[小慢] 多胎芽腫		MONDO:0015863	30
+2200069	[Shoman] Yolk sac tumour		[小慢] 卵黄嚢腫	卵黄嚢腫瘍	MONDO:0005744|MONDO:0003759	42
+2200070	[Shoman] Choriocarcinoma		[小慢] 絨毛癌		MONDO:0005207	18
+2200071	[Shoman] Mixed germ cell tumour		[小慢] 混合性胚細胞腫瘍		MONDO:0015864	16
+2200072	[Shoman] Sex-cord stromal tumour		[小慢] 性索間質性腫瘍		MONDO:0006055	25
+2200073	[Shoman] Adrenocortical carcinoma		[小慢] 副腎皮質癌		MONDO:0006639	33
+2200074	[Shoman] Thyroid cancer		[小慢] 甲状腺癌		MONDO:0002108|MONDO:0015075	13
+2200075	[Shoman] Epipharyngeal carcinoma		[小慢] 上咽頭癌			19
+2200076	[Shoman] Salivary grand carcinoma		[小慢] 唾液腺癌		MONDO:0000521	29
+2200077	[Shoman] Malignant melanoma		[小慢] 悪性黒色腫		MONDO:0005105	2
+2200078	[Shoman] Pheochromocytoma		[小慢] 褐色細胞腫		MONDO:0004974	7
+2200079	[Shoman] Malignant thymoma		[小慢] 悪性胸腺腫		MONDO:0006451	1
+2200080	[Shoman] Pleuropulmonaryblastoma	Pleuropulmonary blastoma	[小慢] 胸膜肺芽腫		MONDO:0011014	12
+2200081	[Shoman] Bronchial tumour		[小慢] 気管支腫瘍		MONDO:0002807	11
+2200082	[Shoman] Pancreatoblastoma		[小慢] 膵芽腫		MONDO:0019035	24
+2200083	[Shoman] Other solid tumours		[小慢] 27から68までに掲げるもののほか、固形腫瘍			43
+2200084	[Shoman] Pilocytic astrocytoma		[小慢] 毛様細胞性星細胞腫		MONDO:0004000|MONDO:0016691	68
+2200085	[Shoman] Diffuse astrocytoma		[小慢] びまん性星細胞腫		MONDO:0016686	64
+2200086	[Shoman] Anaplastic astrocytoma		[小慢] 退形成性星細胞腫		MONDO:0016684	63
+2200087	[Shoman] Glioblastoma		[小慢] 膠芽腫		MONDO:0018177|MONDO:0020690	52
+2200088	[Shoman] Ependymoma		[小慢] 上衣腫		MONDO:0016698	53
+2200089	[Shoman] Oligodendroglioma		[小慢] 乏突起神経膠腫	乏突起膠腫	MONDO:0002540|MONDO:0002543|MONDO:0016695	65
+2200090	[Shoman] Medulloblastoma		[小慢] 髄芽腫		MONDO:0002794|MONDO:0002797|MONDO:0007959	58
+2200091	[Shoman] Craniopharyngioma		[小慢] 頭蓋咽頭腫		MONDO:0018907	60
+2200092	[Shoman] Pineocytoma		[小慢] 松果体腫		MONDO:0016723	54
+2200093	[Shoman] Choroid plexus papilloma		[小慢] 脈絡叢乳頭腫		MONDO:0009837	67
+2200094	[Shoman] Meningioma		[小慢] 髄膜腫		MONDO:0003057|MONDO:0016642	59
+2200095	[Shoman] Pituitary adenoma		[小慢] 下垂体腺腫		MONDO:0006373	50
+2200096	[Shoman] Ganglioglioma		[小慢] 神経節膠腫		MONDO:0016733	56
+2200097	[Shoman] Gangliocytoma		[小慢] 神経節腫	神経節細胞腫	MONDO:0016730	57
+2200098	[Shoman] Chordoma		[小慢] 脊索腫		MONDO:0008978	62
+2200099	[Shoman] Primitive neuroectodermal tumour of the central nervous system	Central nervous system primitive neuroectodermal tumor	[小慢] 未分化神経外胚葉性腫瘍（中枢性のものに限る。）	中枢神経系原始神経外胚葉性腫瘍	MONDO:0000640	66
+2200101	[Shoman] Atypical teratoid, rhabdoid tumour	AT/RT	[小慢] 異型奇形腫瘍／ラブドイド腫瘍	非定型奇形腫様ラブドイド腫瘍|AT/RT	MONDO:0020560	49
+2200102	[Shoman] Malignant neurinoma		[小慢] 悪性神経鞘腫	悪性末梢神経鞘腫瘍	MONDO:0017827	48
+2200103	[Shoman] Neurinoma		[小慢] 神経鞘腫		MONDO:0002546	55
+2200104	[Shoman] Teratoma of the central nervous system		[小慢] 奇形腫		MONDO:0002718	51
+2200108	[Shoman] Intracranial germ cell tumour		[小慢] 頭蓋内胚細胞腫瘍		MONDO:0004218	61
+2200109	[Shoman] Other tumours of the central nervous system		[小慢] 70から90までに掲げるもののほか、中枢神経系腫瘍			69
+2200110	[Shoman] Congenital nephrotic syndrome of the Finnish type	CNF	[小慢] フィンランド型先天性ネフローゼ症候群		MONDO:0009732	26
+2200111	[Shoman] Diffuse mesangial sclerosis	DMS	[小慢] びまん性メサンギウム硬化症		MONDO:0019654	25
+2200112	[Shoman] Minimal change nephrotic syndrome	MCNS	[小慢] 微小変化型ネフローゼ症候群		MONDO:0006835	24
+2200113	[Shoman] Focal segmental glomerulosclerosis	FSGS	[小慢] 巣状分節性糸球体硬化症		MONDO:0005363	23
+2200114	[Shoman] Membranous nephropathy		[小慢] 膜性腎症		MONDO:0005376	27
+2200115	[Shoman] Other nephrotic syndromes		[小慢] 1から6までに掲げるもののほか、ネフローゼ症候群			28
+2200121	[Shoman] IgA nephropathy		[小慢] IgA腎症		MONDO:0005342	32
+2200122	[Shoman] Mesangial proliferative glomerulonephritis	MesPGN	[小慢] メサンギウム増殖性糸球体腎炎		MONDO:0003139	43
+2200123	[Shoman] Membranoproliferative glomerulonephritis	MPGN	[小慢] 膜性増殖性糸球体腎炎		MONDO:0002461|MONDO:0018904	41
+2200124	[Shoman] Henoch-Schonlein purpura nephritis	Henoch-Schönlein purpura nephritis|HSPN	[小慢] 紫斑病性腎炎			37
+2200125	[Shoman] Goodpasture syndrome	Anti-glomerular basement membrane disease|Anti-GBM Nephritis	[小慢] 抗糸球体基底膜腎炎	グッドパスチャー症候群|Goodpasture症候群	MONDO:0009303	36
+2200126	[Shoman] Alport syndrome	Alport's syndrome|AS	[小慢] 慢性糸球体腎炎（アルポート 症候群によるものに限る。）		MONDO:0018965	42
+2200127	[Shoman] Epstein syndrome		[小慢] エプスタイン症候群	Epstein症候群	MONDO:0007954	33
+2200128	[Shoman] Lupus nephritis	LN	[小慢] ループス腎炎		MONDO:0005556	45
+2200129	[Shoman] Rapidly progressive glomerulonephritis due to microscopic poly-angitis	Rapidly progressive glomerulonephritis due to MPA	[小慢] 急速進行性糸球体腎炎（顕微鏡的多発血管炎によるものに限る。）			34
+2200130	[Shoman] Rapidly progressive glomerulonephritis due to granulomatosis with polyangiitis	Rapidly progressive glomerulonephritis due to GPA	[小慢] 急速進行性糸球体腎炎（多発血管炎性肉芽腫症によるものに限る。）			35
+2200131	[Shoman] Atypical hemolytic uremic syndrome	Atypical haemolytic uraemic syndrome|aHUS	[小慢] 非典型溶血性尿毒症症候群		MONDO:0016244	39
+2200132	[Shoman] Nail-patella syndrome		[小慢] ネイル・パテラ症候群	爪膝蓋骨症候群|Nail-Patella症候群	MONDO:0008061	38
+2200133	[Shoman] Glomerulopathy with fibronectin deposits, fibronectin nephropathy		[小慢] フィブロネクチン腎症		MONDO:0007671	40
+2200134	[Shoman] Lipoprotein glomerulopathy	LPG	[小慢] リポタンパク糸球体症		MONDO:0012725	44
+2200135	[Shoman] Other chronic glomerulonephritis		[小慢] 8から21までに掲げるもののほか、慢性糸球体腎炎			46
+2200136	[Shoman] Tubulointerstitial nephritis	TIN	[小慢] 慢性尿細管間質性腎炎		MONDO:0001085	50
+2200137	[Shoman] Chronic pyelonephritis		[小慢] 慢性腎盂腎炎		MONDO:0001110	47
+2200138	[Shoman] Amyloid nephropathy		[小慢] アミロイド腎		MONDO:0019065|MONDO:0007099	1
+2200139	[Shoman] Familial juvenile hyperuricemic nephropathy	FJHN|Familial juvenile hyperuricaemic nephropathy	[小慢] 家族性若年性高尿酸血症性腎症		MONDO:0000608	3
+2200140	[Shoman] Nephronophthisis	NPH|Juvenile nephronophthisis	[小慢] ネフロン癆		MONDO:0009728|MONDO:0019005	29
+2200141	[Shoman] Renovascular hypertension		[小慢] 腎血管性高血圧		MONDO:0001105|MONDO:0006947	14
+2200142	[Shoman] Renal vein thrombosis	RVT	[小慢] 腎静脈血栓症			15
+2200143	[Shoman] Renal arteriovenous fistula		[小慢] 腎動静脈瘻			16
+2200144	[Shoman] Renal tubular acidosis	RTA	[小慢] 尿細管性アシドーシス		MONDO:0001909	18
+2200145	[Shoman] Gitelman syndrome	GS	[小慢] ギッテルマン症候群	Gitelman症候群	MONDO:0009904	4
+2200146	[Shoman] Bartter syndrome	BS	[小慢] バーター症候群	Bartter症候群	MONDO:0015231	30
+2200147	[Shoman] Nephro- and urolithiasis	Nephro-urolithiasis	[小慢] 腎尿管結石			17
+2200148	[Shoman] Chronic renal failure due to renal tumour		[小慢] 慢性腎不全（腎腫瘍によるものに限る。）			49
+2200149	[Shoman] Chronic renal failure due to acute tubular necrosis or renal ischemias	Chronic renal failure due to acute tubular necrosis or renal ischaemias	[小慢] 慢性腎不全（急性尿細管壊死または腎虚血によるものに限る。）			48
+2200152	[Shoman] Polycystic kidney disease	PKD|Polycystic kidney	[小慢] 多発性嚢胞腎		MONDO:0020642	10
+2200155	[Shoman] Hypoplastic kidney		[小慢] 低形成腎		MONDO:0019637	11
+2200156	[Shoman] Renal aplasia		[小慢] 腎無形成		MONDO:0018470	8
+2200157	[Shoman] Potter syndrome	Potter sequence	[小慢] ポッター症候群	Potter症候群	MONDO:0001558	12
+2200158	[Shoman] Multicystic dysplastic kidney	MCDK	[小慢] 多嚢胞性異形成腎		MONDO:0015988	9
+2200159	[Shoman] Oligomeganephronia		[小慢] 寡巨大糸球体症		MONDO:0016407	6
+2200160	[Shoman] Other renal malformations		[小慢] 38から44までに掲げるもののほか、腎奇形			13
+2200178	[Shoman] Obstructive uropathy		[小慢] 閉塞性尿路疾患		MONDO:0003330	19
+2200179	[Shoman] Vesicoureteral reflux	VUR	[小慢] 膀胱尿管逆流		MONDO:0006007	20
+2200180	[Shoman] Other urinary tract malformations		[小慢] 46及び47に掲げるもののほか、尿路奇形			21
+2200186	[Shoman] Atrophic kidney		[小慢] 萎縮腎			2
+2200187	[Shoman] Fanconi syndrome		[小慢] ファンコーニ症候群	Fanconi症候群	MONDO:0001083	31
+2200188	[Shoman] Lowe syndrome	Oculocerebrorenal syndrome of Lowe|OCRL	[小慢] ロウ症候群	Lowe症候群	MONDO:0010645	51
+2200189	[Shoman] Airway obstruction and stenosis		[小慢] 気道狭窄			6
+2200197	[Shoman] Bronchial asthma		[小慢] 気管支喘息		MONDO:0010940	5
+2200198	[Shoman] Congenital central hypoventilation syndrome	CCHS	[小慢] 先天性中枢性低換気症候群		MONDO:0008852	8
+2200199	[Shoman] Idiopathic interstitial pneumonia	IIPs	[小慢] 特発性間質性肺炎		MONDO:0002429	2
+2200200	[Shoman] Congenital alveolar proteinosis	Congenital pulmonary alveolar proteinosis|C-PAP|Congenital PAP|Hereditary pulmonary alveolar proteinosis	[小慢] 先天性肺胞蛋白症	先天性PAP	MONDO:0012580	1
+2200202	[Shoman] Pulmonary alveolar microlithiasis	PAM	[小慢] 肺胞微石症		MONDO:0009928	3
+2200203	[Shoman] Primary ciliary dyskinesia		[小慢] 線毛機能不全症候群		MONDO:0016575	10
+2200205	[Shoman] Cystic fibrosis	CF	[小慢] 嚢胞性線維症		MONDO:0009061	12
+2200206	[Shoman] Bronchiectasis		[小慢] 気管支拡張症		MONDO:0004822	4
+2200207	[Shoman] Idiopathic pulmonary hemosiderosis	Idiopathic pulmonary haemosiderosis	[小慢] 特発性肺ヘモジデローシス		MONDO:0008346	11
+2200208	[Shoman] Chronic lung disease	CLD	[小慢] 慢性肺疾患			14
+2200209	[Shoman] Bronchiolitis obliterans	Obliterating bronchiolitis	[小慢] 閉塞性細気管支炎		MONDO:0015265	13
+2200210	[Shoman] Congenital diaphragmatic hernia	CDH	[小慢] 先天性横隔膜ヘルニア		MONDO:0005711	7
+2200211	[Shoman] Congenital cystic lung disease		[小慢] 先天性嚢胞性肺疾患			9
+2200212	[Shoman] Sick sinus syndrome	SSS	[小慢] 洞不全症候群		MONDO:0001823	72
+2200213	[Shoman] Mobitz type II second degree atrioventricular block		[小慢] モビッツ2型ブロック	Mobitz2型ブロック 	MONDO:0001261	96
+2200214	[Shoman] Complete atrio-ventricular block		[小慢] 完全房室ブロック		MONDO:0000468|MONDO:0009326	9
+2200215	[Shoman] Bundle branch block		[小慢] 脚ブロック		MONDO:0020803	13
+2200216	[Shoman] Polymorphic ventricular premature beat		[小慢] 多源性心室期外収縮		MONDO:0017990	67
+2200217	[Shoman] Supraventricular tachycardia due to WPW syndrome		[小慢] 上室頻拍		MONDO:0008685	26
+2200218	[Shoman] Multiple atrial tachycardia		[小慢] 多源性心房頻拍		MONDO:0005479|MONDO:0005310	27
+2200219	[Shoman] Other supraventricular tachycardia		[小慢] 6及び7に掲げるもののほか、上室頻拍			28
+2200220	[Shoman] Verapamil sensitive ventricular tachycardia		[小慢] ベラパミル感受性心室頻拍			33
+2200221	[Shoman] Catecholaminergic polymorphic ventricular tachycardia	CPVT	[小慢] カテコラミン誘発多形性心室頻拍		MONDO:0017990	32
+2200222	[Shoman] Other ventricular tachycardia		[小慢] 9及び10に掲げるもののほか、心室頻拍			34
+2200225	[Shoman] Atrial flutter		[小慢] 心房粗動		MONDO:0005310	47
+2200226	[Shoman] Atrial fibrillation	AF	[小慢] 心房細動		MONDO:0004981	46
+2200227	[Shoman] Ventricular fibrillation		[小慢] 心室細動		MONDO:0000190	30
+2200228	[Shoman] Long qt syndrome	LQTS	[小慢] QT延長症候群		MONDO:0002442|MONDO:0019171	14
+2200229	[Shoman] Hypertrophic cardiomyopathy	HCM	[小慢] 肥大型心筋症		MONDO:0005045	88
+2200230	[Shoman] Arrhythmogenic right ventricular cardiomyopathy or dysplasia		[小慢] 不整脈源性右室心筋症		MONDO:0016587	91
+2200231	[Shoman] Non-compaction of the ventricle		[小慢] 心筋緻密化障害		MONDO:0018901	29
+2200232	[Shoman] Dilated cardiomyopathy	DCM	[小慢] 拡張型心筋症		MONDO:0005021	4
+2200233	[Shoman] Restrictive cardiomyopathy	Restricted cardiomyopathy	[小慢] 拘束型心筋症		MONDO:0005201	20
+2200234	[Shoman] Aneurysm of ventricle	Diverticulum of ventricle	[小慢] 心室瘤		MONDO:0006779|MONDO:0015677	35
+2200235	[Shoman] Endocardial fibroelastosis		[小慢] 心内膜線維弾性症		MONDO:0009169	45
+2200236	[Shoman] Cardiac tumor		[小慢] 心臓腫瘍		MONDO:0021209	36
+2200237	[Shoman] Chronic myocarditis		[小慢] 慢性心筋炎			93
+2200238	[Shoman] Chronic pericarditis		[小慢] 慢性心膜炎			94
+2200239	[Shoman] Constrictive pericarditis		[小慢] 収縮性心膜炎		MONDO:0006711	25
+2200240	[Shoman] Congenital defect of the pericardium		[小慢] 先天性心膜欠損症			53
+2200241	[Shoman] Idiopathic rupture of chordae tendineae of the mitral valve in infants		[小慢] 乳児特発性僧帽弁腱索断裂			76
+2200242	[Shoman] Abnormal origin of left coronary artery from pulmonary artery		[小慢] 左冠動脈肺動脈起始症		MONDO:0000811	10
+2200243	[Shoman] Abnormal origin of right coronary artery from pulmonary artery		[小慢] 右冠動脈肺動脈起始症			11
+2200244	[Shoman] Other anomalous origin of coronary artery		[小慢] 29及び30に掲げるもののほか、冠動脈起始異常			12
+2200245	[Shoman] Coronary aneurysms complicated with Kawasaki disease		[小慢] 川崎病性冠動脈瘤			5
+2200246	[Shoman] Stenosis or atresia of coronary artery		[小慢] 冠動脈狭窄症		MONDO:0006715	6
+2200247	[Shoman] Angina pectoris		[小慢] 狭心症			15
+2200248	[Shoman] Myocardial infarction		[小慢] 心筋梗塞		MONDO:0005068	16
+2200249	[Shoman] Hypoplastic left heart syndrome		[小慢] 左心低形成症候群		MONDO:0004933	22
+2200250	[Shoman] Single ventricle		[小慢] 単心室症		MONDO:0015451	68
+2200251	[Shoman] Tricuspid atresia		[小慢] 三尖弁閉鎖症		MONDO:0011514	24
+2200252	[Shoman] Pulmonary atresia with ventricular septal defect		[小慢] 心室中隔欠損を伴う肺動脈閉鎖症	極型ファロー四徴症	MONDO:0008343	84
+2200253	[Shoman] Pulmonary atresia with intact ventricular septum		[小慢] 心室中隔欠損を伴わない肺動脈閉鎖症		MONDO:0009931	85
+2200254	[Shoman] Tetralogy of Fallot	Fallot's Tetralogy	[小慢] ファロー四徴症	Fallot四徴症	MONDO:0008542	89
+2200255	[Shoman] Taussig-Bing anomaly		[小慢] タウジッヒ・ビング奇形	Taussig-Bing奇形		97
+2200256	[Shoman] Double outlet right ventricle		[小慢] 両大血管右室起始症		MONDO:0018089	98
+2200257	[Shoman] Double-outlet left ventricle		[小慢] 両大血管左室起始症		MONDO:0018090	99
+2200258	[Shoman] Complete transposition of the great arteries	Complete TGA	[小慢] 完全大血管転位症		MONDO:0000153	8
+2200259	[Shoman] Congenitally corrected transposition of the great arteries		[小慢] 先天性修正大血管転位症		MONDO:0016301	52
+2200260	[Shoman] Ebstein's anomaly	Ebstein anomaly|Ebstein's malformation|Ebstein malformation	[小慢] エプスタイン病	Ebstein病|Ebstein奇形	MONDO:0009144	3
+2200261	[Shoman] Truncus arteriosus communis		[小慢] 総動脈幹遺残症		MONDO:0018072	54
+2200262	[Shoman] Aorto-pulmonary window		[小慢] 大動脈肺動脈窓		MONDO:0021902	63
+2200263	[Shoman] Cor triatriatum		[小慢] 三心房心		MONDO:0015450	23
+2200264	[Shoman] Patent ductus arteriosus		[小慢] 動脈管開存症		MONDO:0011827	73
+2200265	[Shoman] Common atrium		[小慢] 単心房症			49
+2200266	[Shoman] Atrial septal defect, ostium secundum type		[小慢] 二次孔型心房中隔欠損症		MONDO:0020434|MONDO:0020439	50
+2200267	[Shoman] Atrial septal defect, sinus venosus type		[小慢] 静脈洞型心房中隔欠損症		MONDO:0020436	48
+2200268	[Shoman] Incomplete atrioventricular septal defect		[小慢] 不完全型房室中隔欠損症	不完全型心内膜床欠損症	MONDO:0015275	51
+2200269	[Shoman] Complete atrioventricular septal defect		[小慢] 完全型房室中隔欠損症	完全型心内膜床欠損症	MONDO:0015273	7
+2200270	[Shoman] Ventricular septal defect		[小慢] 心室中隔欠損症		MONDO:0002070	31
+2200271	[Shoman] Total anomalous pulmonary venous connection		[小慢] 総肺静脈還流異常症		MONDO:0007130	77
+2200272	[Shoman] Partial anomalous pulmonary venous connection		[小慢] 部分肺静脈還流異常症		MONDO:0020453	78
+2200273	[Shoman] Pulmonary venous obstruction		[小慢] 肺静脈狭窄症		MONDO:0017864	79
+2200274	[Shoman] Left ventricular-right atrial communication		[小慢] 左室右房交通症		MONDO:0020428	21
+2200275	[Shoman] Double-chambered right ventricle		[小慢] 右室二腔症		MONDO:0016581	2
+2200276	[Shoman] Subvalvular pulmonary stenosis		[小慢] 肺動脈弁下狭窄症		MONDO:0006935	86
+2200277	[Shoman] Subvalvular aortic stenosis		[小慢] 大動脈弁下狭窄症		MONDO:0006987	64
+2200278	[Shoman] Supravalvular pulmonary stenosis		[小慢] 肺動脈弁上狭窄症		MONDO:0017870	80
+2200279	[Shoman] Peripheral pulmonary stenosis		[小慢] 末梢性肺動脈狭窄症			81
+2200280	[Shoman] Absent pulmonary valve		[小慢] 肺動脈弁欠損		MONDO:0020064	87
+2200281	[Shoman] Origin of pulmonary artery from ascending aorta		[小慢] 肺動脈上行大動脈起始症		MONDO:0020391	82
+2200282	[Shoman] Unilateral absence of a pulmonary artery		[小慢] 一側肺動脈欠損		MONDO:0020007	1
+2200283	[Shoman] Coarctation of the aorta		[小慢] 大動脈縮窄症		MONDO:0007345	59
+2200284	[Shoman] Coarctation complex		[小慢] 大動脈縮窄複合		MONDO:0007345|MONDO:0015446	60
+2200285	[Shoman] Supravalvular aortic stenosis		[小慢] 大動脈弁上狭窄症		MONDO:0008504	61
+2200286	[Shoman] Williams syndrome		[小慢] ウィリアムズ症候群	Williams症候群	MONDO:0008678	58
+2200287	[Shoman] Other coarctation of the aorta		[小慢] 70から73までに掲げるもののほか、大動脈狭窄症			62
+2200288	[Shoman] Interruption of aortic arch complex		[小慢] 大動脈弓離断複合		MONDO:0009010	57
+2200289	[Shoman] Aortic arch occlusive disease		[小慢] 大動脈弓閉塞症			56
+2200290	[Shoman] Double aortic arch disease		[小慢] 重複大動脈弓症		MONDO:0020413	18
+2200291	[Shoman] Vascular sling	PA sling|Pulmonary artery sling	[小慢] 左肺動脈右肺動脈起始症			17
+2200292	[Shoman] Other vascular ring		[小慢] 77及び78に掲げるもののほか、血管輪			19
+2200293	[Shoman] Aneurysm of sinus valsalva		[小慢] バルサルバ洞動脈瘤	Valsalva洞動脈瘤	MONDO:0015197	66
+2200294	[Shoman] Aortic aneurysm		[小慢] 大動脈瘤		MONDO:0005160	65
+2200295	[Shoman] Pulmonary arteriovenous fistulae		[小慢] 肺動静脈瘻		MONDO:0009930	70
+2200296	[Shoman] Coronary artery fistula		[小慢] 冠動脈瘻		MONDO:0016081	69
+2200297	[Shoman] Other arteriovenous fistulae		[小慢] 82及び83に掲げるもののほか、動静脈瘻			71
+2200298	[Shoman] Pulmonary arterial hypertension		[小慢] 肺動脈性肺高血圧症		MONDO:0015924	83
+2200299	[Shoman] Chronic cor pulmonale		[小慢] 慢性肺性心		MONDO:0001493	95
+2200300	[Shoman] Tricuspid valve stenosis		[小慢] 三尖弁狭窄症		MONDO:0005997	37
+2200301	[Shoman] Tricuspid valve regurgitation		[小慢] 三尖弁閉鎖不全症		MONDO:0002870	38
+2200302	[Shoman] Mitral valve stenosis		[小慢] 僧帽弁狭窄症		MONDO:0005852	39
+2200303	[Shoman] Mitral regurgitation		[小慢] 僧帽弁閉鎖不全症		MONDO:0001298	40
+2200304	[Shoman] Pulmonary valve stenosis		[小慢] 肺動脈弁狭窄症		MONDO:0006936	43
+2200305	[Shoman] Pulmonary valve regurgitation		[小慢] 肺動脈弁閉鎖不全症		MONDO:0001927	44
+2200306	[Shoman] Aortic valve stenosis		[小慢] 大動脈弁狭窄症		MONDO:0042981	41
+2200307	[Shoman] Aortic valve regurgitation		[小慢] 大動脈弁閉鎖不全症		MONDO:0005648	42
+2200308	[Shoman] Supramitral ring		[小慢] 僧帽弁弁上輪		MONDO:0020400	55
+2200309	[Shoman] Asplenia syndrome		[小慢] 無脾症候群			75
+2200310	[Shoman] Polysplenia syndrome		[小慢] 多脾症候群			74
+2200311	[Shoman] Post-Fontan syndrome		[小慢] フォンタン術後症候群	Fontan術後症候群		90
+2200312	[Shoman] Congenital hypopituitarism		[小慢] 先天性下垂体機能低下症		MONDO:0018762	5
+2200313	[Shoman] Acquired hypopituitarism		[小慢] 後天性下垂体機能低下症		MONDO:0019832	4
+2200314	[Shoman] Pituitary gigantism		[小慢] 下垂体性巨人症		MONDO:0020479	6
+2200315	[Shoman] Acromegaly		[小慢] 先端巨大症		MONDO:0019933	55
+2200316	[Shoman] Growth hormone deficiency caused by cerebral organic disorders		[小慢] 成長ホルモン分泌不全性低身長症（脳の器質的原因によるものに限る。）	GH分泌不全性低身長症（脳の器質的原因によるものに限る。）		45
+2200318	[Shoman] Growth hormone deficiency not caused by cerebral organic disorders		[小慢] 成長ホルモン分泌不全性低身長症（脳の器質的原因によるものを除く。）	GH分泌不全性低身長症（脳の器質的原因によるものを除く。）		46
+2200320	[Shoman] IGF1 insensitivity		[小慢] インスリン様成長因子1不応症	IGF-1不応症	MONDO:0010038	43
+2200321	[Shoman] Growth hormone insensitivity		[小慢] 成長ホルモン不応性症候群		MONDO:0015892	44
+2200322	[Shoman] Hyperprolactinemia	Hyperprolactinaemia	[小慢] 高プロラクチン血症		MONDO:0005804	33
+2200323	[Shoman] Syndrome of inappropriate secretion of antidiuretic hormone	SIADH	[小慢] 抗利尿ホルモン不適切分泌症候群	バゾプレシン分泌過剰症|ADH分泌亢進症	MONDO:0006802	34
+2200324	[Shoman] Central diabetes insipidus		[小慢] 中枢性尿崩症		MONDO:0015790	75
+2200325	[Shoman] Adipsic hypernatremia	Adipsic hypernatraemia|Essential hypernatremia	[小慢] 口渇中枢障害を伴う高ナトリウム血症	本態性高ナトリウム血症|無飲症性高ナトリウム血症	MONDO:0018620	73
+2200326	[Shoman] Nephrogenic diabetes insipidus		[小慢] 腎性尿崩症		MONDO:0016383	74
+2200327	[Shoman] Cerebral salt wasting syndrome		[小慢] 中枢性塩喪失症候群			67
+2200328	[Shoman] Basedow disease	Graves' disease	[小慢] バセドウ病	Basedow病 	MONDO:0005364	24
+2200329	[Shoman] Hyperthyroidism		[小慢] 甲状腺機能亢進症		MONDO:0004425	23
+2200330	[Shoman] Ectoic thyroid		[小慢] 異所性甲状腺		MONDO:0019854	28
+2200331	[Shoman] Thyroid agenesis	Athyreosis	[小慢] 無甲状腺症		MONDO:0019855	30
+2200332	[Shoman] Thyroid-stimulating hormone deficiency		[小慢] 甲状腺刺激ホルモン分泌低下症	TSH分泌低下症	MONDO:0016410	29
+2200334	[Shoman] Other congenital hypothyroidism	CH	[小慢] 17から19までに掲げるもののほか、先天性甲状腺機能低下症			31
+2200335	[Shoman] Hashimoto disease	Hashimoto’s thyroiditis	[小慢] 橋本病		MONDO:0007699	26
+2200336	[Shoman] Atrophic thyroiditis	Primary myxedema	[小慢] 萎縮性甲状腺炎	特発性粘液水腫	MONDO:0005624	25
+2200337	[Shoman] Other acquired hypothyroidism		[小慢] 21及び22に掲げるもののほか、後天性甲状腺機能低下症			27
+2200341	[Shoman] Resistance to thyroid hormone	Syndrome of Resistance to Thyroid Hormone|RTH	[小慢] 甲状腺ホルモン不応症		MONDO:0001328|MONDO:0010131	32
+2200342	[Shoman] Adenomatous goiter	Adenomatous goitre	[小慢] 腺腫様甲状腺腫			54
+2200343	[Shoman] Hyperparathyroidism		[小慢] 副甲状腺機能亢進症		MONDO:0001741	78
+2200344	[Shoman] Parathyroid gland defect		[小慢] 副甲状腺欠損症			80
+2200345	[Shoman] Hypoparathyroidism		[小慢] 副甲状腺機能低下症		MONDO:0001220|MONDO:0015895	79
+2200346	[Shoman] Autoimmune polyendocrinopathy type 1		[小慢] 自己免疫性多内分泌腺症候群1型		MONDO:0009411	35
+2200347	[Shoman] Autoimmune polyendocrinopathy type 2		[小慢] 自己免疫性多内分泌腺症候群2型		MONDO:0010012	36
+2200348	[Shoman] Pseudopseudohypoparathyroidism		[小慢] 偽性偽性副甲状腺機能低下症		MONDO:0012912	8
+2200349	[Shoman] Pseudohypoparathyroidism		[小慢] 偽性副甲状腺機能低下症		MONDO:0019992	9
+2200350	[Shoman] Cushing disease	Cushing's Disease	[小慢] クッシング病	Cushing病	MONDO:0009050	11
+2200351	[Shoman] Ectopic ACTH syndrome		[小慢] 異所性副腎皮質刺激ホルモン産生症候群	異所性ACTH産生症候群	MONDO:0043472	10
+2200352	[Shoman] Adrenal adenoma		[小慢] 副腎腺腫		MONDO:0003924	12
+2200353	[Shoman] ACTH-independent macronodular adrenal hyperplasia		[小慢] 副腎皮質結節性過形成		MONDO:0009049	13
+2200354	[Shoman] Other Cushing syndrome		[小慢] 33から36までに掲げるもののほか、クッシング症候群			14
+2200355	[Shoman] Isolated ACTH deficiency		[小慢] 副腎皮質刺激ホルモン単独欠損症	ACTH単独欠損症	MONDO:0008720|MONDO:0016042	83
+2200356	[Shoman] ACTH unresponsiveness	Adrenocorticotropin unresponsiveness|Adrenocorticotropic hormone unresponsiveness|Adrenocorticotropic hormone insensitivity	[小慢] 副腎皮質刺激ホルモン不応症	ACTH不応症		84
+2200357	[Shoman] Congenital adrenal hypoplasia		[小慢] 先天性副腎低形成症		MONDO:0010264|MONDO:0016241	82
+2200358	[Shoman] Glucocorticoid resistance		[小慢] グルココルチコイド抵抗症		MONDO:0014421	81
+2200359	[Shoman] Other chronic adrenal insufficiency	Addison disease	[小慢] 38から41までに掲げるもののほか、慢性副腎皮質機能低下症		MONDO:0009410|MONDO:0015129	85
+2200361	[Shoman] Aldosteronism		[小慢] アルドステロン症		MONDO:0001422	1
+2200362	[Shoman] Apparent mineralocorticoid excess syndrome	AME syndrome	[小慢] 見かけの鉱質コルチコイド過剰症候群	AME症候群	MONDO:0006657|MONDO:0009025	86
+2200363	[Shoman] Liddle syndrome		[小慢] リドル症候群	Liddle症候群	MONDO:0008323	87
+2200364	[Shoman] Hyporeninemic hypoaldosteronism	Hyporeninaemic hypoaldosteronism	[小慢] 低レニン性低アルドステロン症			69
+2200365	[Shoman] Aldosterone synthase deficiency		[小慢] アルドステロン合成酵素欠損症		MONDO:0020489	68
+2200366	[Shoman] other hypoaldosteronism		[小慢] 46及び47に掲げるもののほか、低アルドステロン症			70
+2200367	[Shoman] Pseudohypoaldosteronism		[小慢] 偽性低アルドステロン症		MONDO:0018638	7
+2200370	[Shoman] Congenital lipoid adrenal hyperplasia		[小慢] リポイド副腎過形成症	先天性リポイド過形成症	MONDO:0018479	61
+2200371	[Shoman] 3 beta-hydroxysteroid dehydrogenase deficiency	3β-hydroxysteroid dehydrogenase deficiency	[小慢] 3β-ヒドロキシステロイド脱水素酵素欠損症		MONDO:0008727	57
+2200372	[Shoman] 11-β-Hydroxylase deficiency	11-beta-hydroxylase deficiency	[小慢] 11β-水酸化酵素欠損症		MONDO:0008729	56
+2200373	[Shoman] 17 alpha-hydroxylase deficiency	17-α-Hydroxylase deficiency	[小慢] 17α-水酸化酵素欠損症		MONDO:0008730	58
+2200374	[Shoman] 21-Hydroxylase deficiency		[小慢] 21-水酸化酵素欠損症		MONDO:0008728	59
+2200375	[Shoman] P450 oxidoreductase deficiency	PORD	[小慢] P450酸化還元酵素欠損症	P450オキシドレダクターゼ欠損症|POR欠損症	MONDO:0013310	60
+2200376	[Shoman] Other congenital adrenal hyperplasia		[小慢] 50から55までに掲げるもののほか、先天性副腎過形成症			62
+2200377	[Shoman] Gonadotropin-dependent precocious puberty		[小慢] ゴナドトロピン依存性思春期早発症		MONDO:0019165	37
+2200378	[Shoman] Non-gonadotropin-dependent precocious puberty		[小慢] ゴナドトロピン非依存性思春期早発症		MONDO:0015791	38
+2200379	[Shoman] Hyperestrogenism		[小慢] エストロゲン過剰症		MONDO:0001946	3
+2200380	[Shoman] Hyperandrogenism		[小慢] アンドロゲン過剰症		MONDO:0001324	2
+2200381	[Shoman] Kallmann syndrome		[小慢] カルマン症候群	Kallmann症候群	MONDO:0018800	71
+2200382	[Shoman] Hypogonadotropic hypogonadism		[小慢] 低ゴナドトロピン性性腺機能低下症	ゴナドトロピン分泌低下症	MONDO:0018555	72
+2200383	[Shoman] Testicular dysgenesis		[小慢] 精巣形成不全		MONDO:0005437	20
+2200384	[Shoman] Ovarian dysgenesis		[小慢] 卵巣形成不全		MONDO:0009299	21
+2200385	[Shoman] Hypergonadotropic hypogonadism of other etiologies		[小慢] 63及び64に掲げるもののほか、高ゴナドトロピン性性腺機能低下症			22
+2200387	[Shoman] Ovotesticular dsd	Ovotesticular disorder of sex development	[小慢] 卵精巣性性分化疾患		MONDO:0016281	53
+2200388	[Shoman] Mixed gonadal dysgenesis		[小慢] 混合性性腺異形成症		MONDO:0001969|MONDO:0015779	51
+2200389	[Shoman] 5 alpha-reductase deficiency		[小慢] 5α-還元酵素欠損症		MONDO:0009923	49
+2200390	[Shoman] 17 beta-hydroxysteroid dehydrogenase deficiency		[小慢] 17β-ヒドロキシステロイド脱水素酵素欠損症		MONDO:0009916	48
+2200391	[Shoman] Androgen insensitivity syndrome		[小慢] アンドロゲン不応症		MONDO:0019154	47
+2200392	[Shoman] Other disorders of sex development of 46,XY		[小慢] 68から70までに掲げるもののほか、46,XY性分化疾患			50
+2200393	[Shoman] Disorders of sex development of 46,XX	46,XY DSD	[小慢] 46,XX性分化疾患		MONDO:0020040|MONDO:0020042	52
+2200394	[Shoman] Vipoma		[小慢] VIP産生腫瘍		MONDO:0019960	42
+2200395	[Shoman] Gastrinoma		[小慢] ガストリノーマ		MONDO:0003523	40
+2200396	[Shoman] Carcinoid syndrome		[小慢] カルチノイド症候群		MONDO:0005369|MONDO:0006689	41
+2200397	[Shoman] Glucagonoma		[小慢] グルカゴノーマ		MONDO:0019959	15
+2200398	[Shoman] Insulinoma		[小慢] インスリノーマ		MONDO:0024677	17
+2200399	[Shoman] Congenital hyperinsulinemia	Congenital hyperinsulinaemia	[小慢] 先天性高インスリン血症		MONDO:0005803|MONDO:0017182	18
+2200400	[Shoman] Other hyperinsulinemic hypoglycemia	Other hyperinsulinaemic hypoglycaemia	[小慢] 77及び78に掲げるもののほか、高インスリン血性低血糖症			19
+2200401	[Shoman] Vitamin D-dependent rickets		[小慢] ビタミンD依存性くる病		MONDO:0024299	76
+2200402	[Shoman] Vitamin D-resistant osteomalacia		[小慢] ビタミンD抵抗性骨軟化症		MONDO:0024300	77
+2200403	[Shoman] Primary hypophosphatemic rickets	Primary hypophosphataemic rickets	[小慢] 原発性低リン血症性くる病		MONDO:0024300	16
+2200404	[Shoman] Lipodystrophy		[小慢] 脂肪萎縮症	脂肪異栄養症	MONDO:0006573	39
+2200405	[Shoman] Multiple endocrine neoplasia type 1	MEN1|Wermer syndrome	[小慢] 多発性内分泌腫瘍1型	Wermer症候群|ウェルマー症候群	MONDO:0007540	64
+2200406	[Shoman] Multiple endocrine neoplasia type 2	MEN 2|Sipple syndrome	[小慢] 多発性内分泌腫瘍2型	Sipple症候群|シップル症候群	MONDO:0008234|MONDO:0019003	65
+2200407	[Shoman] Other multiple endocrine neoplasia		[小慢] 84及び85に掲げるもののほか、多発性内分泌腫瘍			66
+2200409	[Shoman] Polycystic ovary syndrome		[小慢] 多嚢胞性卵巣症候群		MONDO:0008487	63
+2200410	[Shoman] Turner syndrome		[小慢] ターナー症候群	Turner症候群	MONDO:0019499	88
+2200411	[Shoman] Prader-Willi syndrome		[小慢] プラダー・ウィリ症候群	Prader-Willi症候群	MONDO:0008300	91
+2200412	[Shoman] McCune-Albright syndrome		[小慢] マッキューン・オルブライト症候群	McCune-Albright症候群	MONDO:0018919	92
+2200413	[Shoman] Noonan syndrome		[小慢] ヌーナン症候群	Noonan症候群	MONDO:0018997	89
+2200414	[Shoman] Bardet-Biedl syndrome		[小慢] バルデー・ビードル症候群	Bardet-Biedl症候群	MONDO:0015229	90
+2200415	[Shoman] Juvenile idiopathic arthritis	JIA	[小慢] 若年性特発性関節炎		MONDO:0011429	8
+2200416	[Shoman] Systemic lupus erythematosus	SLE	[小慢] 全身性エリテマトーデス		MONDO:0007915	9
+2200417	[Shoman] Juvenile dermatomyositis, polymyositis	PM/DM	[小慢] 皮膚筋炎／多発性筋炎			10
+2200420	[Shoman] Sjogren's syndrome	Sjögren's syndrome	[小慢] シェーグレン症候群	Sjogren症候群	MONDO:0010030	7
+2200421	[Shoman] Anti-phospholipid antibody syndrome		[小慢] 抗リン脂質抗体症候群		MONDO:0007140	6
+2200422	[Shoman] Behcet's disease	Behçet disease	[小慢] ベーチェット病	Behçet病	MONDO:0007191	11
+2200423	[Shoman] Takayasu arteritis	Aortitis syndrome|Takayasu's arteritis	[小慢] 高安動脈炎	大動脈炎症候群	MONDO:0006656|MONDO:0017991	4
+2200424	[Shoman] Granulomatosis with polyangiitis	GPA	[小慢] 多発血管炎性肉芽腫症		MONDO:0012105	5
+2200425	[Shoman] Polyangiitis nodosa	PN	[小慢] 結節性多発血管炎	結節性多発動脈炎	MONDO:0019170	1
+2200426	[Shoman] Microscopic polyangiitis	MPA	[小慢] 顕微鏡的多発血管炎		MONDO:0019124	2
+2200427	[Shoman] Eosinophilic granulomatosis with polyangiitis	EGPA	[小慢] 好酸球性多発血管炎性肉芽腫症		MONDO:0015943	3
+2200428	[Shoman] Relapsing polychondritis	RP	[小慢] 再発性多発軟骨炎		MONDO:0019125	12
+2200429	[Shoman] Systemic sclerosis	SSc	[小慢] 全身性強皮症		MONDO:0005100	24
+2200430	[Shoman] Mixed connective tissue disease	MCTD	[小慢] 混合性結合組織病		MONDO:0005854	25
+2200431	[Shoman] Familial Mediterranean fever	FMF	[小慢] 家族性地中海熱		MONDO:0018088	14
+2200432	[Shoman] Cryopyrin-associated periodic syndrome	Cryopyrin associated periodic fever syndrome	[小慢] クリオピリン関連周期熱症候群	家族性寒冷自己炎症症候群	MONDO:0016168	16
+2200433	[Shoman] TNF receptor-associated periodic fever syndrome	TRAPS	[小慢] TNF受容体関連周期性症候群		MONDO:0007727	18
+2200434	[Shoman] Blau syndrome, early onset sarcoidosis	Early onset sarcoidosis	[小慢] ブラウ症候群	Blau症候群|若年発症サルコイドーシス	MONDO:0008523	21
+2200435	[Shoman] Nakajo-Nishimura syndrome	Autoinflammation, lipodystrophy, and dermatosis syndrome|CANDLE syndrome|Chronic atypical neutrophilic dermatosis with lipodystrophy and elevated temperature syndrome|JMP syndrome|Joint contractures, muscle atrophy, microcytic anemia, and panniculitis induced lipodystrophy	[小慢] 中條・西村症候群	関節拘縮、筋委縮、小球性貧血、脂肪異栄養症誘因性脂肪織炎|脂肪異栄養症および発熱を伴う慢性非典型的好中球性皮膚疾患症候群	MONDO:0009726	19
+2200436	[Shoman] Hyper IgD syndrome	Mevalonate kinase deficiency|MKD|HIDS	[小慢] 高IgD症候群	メバロン酸キナーゼ欠損症	MONDO:0009849|MONDO:0017708	17
+2200437	[Shoman] Pyogenic arthritis, pyoderma gangrenosum, acne syndrome	PAPA syndrome|Pyogenic arthritis, pyoderma gangrenosum and acne syndrome|PAPA syndrome	[小慢] 化膿性無菌性関節炎・壊疽性膿皮症・アクネ症候群	PAPA症候群	MONDO:0004471|MONDO:0011462|MONDO:0018824	15
+2200438	[Shoman] Chronic recurrent multifocal osteomyelitis	CRMO	[小慢] 慢性再発性多発性骨髄炎	CRMO	MONDO:0009813	22
+2200439	[Shoman] Deficiency of the interleukin-1-receptor antagonist		[小慢] インターロイキンI受容体拮抗分子欠損症		MONDO:0013021	13
+2200440	[Shoman] Other autoinflammatory diseases		[小慢] 15から24までに掲げるもののほか、自己炎症性疾患			23
+2200460	[Shoman] Diabetes mellitus type 1	Type 1 diabetes mellitus	[小慢] 1型糖尿病		MONDO:0005147	1
+2200461	[Shoman] Diabetes mellitus type 2	Type 2 Diabetes Mellitus	[小慢] 2型糖尿病		MONDO:0005148|MONDO:0007452	6
+2200462	[Shoman] Maturity-onset diabetes of the young	MODY	[小慢] 若年発症成人型糖尿病	MODY	MONDO:0018911	4
+2200463	[Shoman] Neonatal diabetes mellitus		[小慢] 新生児糖尿病		MONDO:0016391	5
+2200464	[Shoman] Insulin receptor abnormality		[小慢] インスリン受容体異常症			2
+2200465	[Shoman] Lipoatrophic diabetes		[小慢] 脂肪萎縮性糖尿病		MONDO:0005827|MONDO:0018883	3
+2200466	[Shoman] Other diabetes mellitus		[小慢] 1から6までに掲げるもののほか、糖尿病			7
+2200467	[Shoman] Phenylketonuria	PKU|Hyperphenylalaninemia|HPA	[小慢] フェニルケトン尿症	高フェニルアラニン血症	MONDO:0009861	17
+2200468	[Shoman] Tyrosinemia type 1	Tyrosinaemia type 1	[小慢] 高チロシン血症１型		MONDO:0010161	8
+2200469	[Shoman] Tyrosinemia type 2	Tyrosinaemia type 2	[小慢] 高チロシン血症２型		MONDO:0010160	9
+2200470	[Shoman] Tyrosinemia type 3	Tyrosinaemia type 3	[小慢] 高チロシン血症３型		MONDO:0010162	10
+2200471	[Shoman] Hyperprolinemia	Hyperprolinaemia	[小慢] 高プロリン血症		MONDO:0023419	11
+2200472	[Shoman] Prolidase deficiency	Hyperimidodipeptiduria	[小慢] プロリダーゼ欠損症		MONDO:0008221	18
+2200473	[Shoman] Maple syrup urine disease	MSUD	[小慢] メープルシロップ尿症		MONDO:0009563	20
+2200474	[Shoman] Homocystinuria		[小慢] ホモシスチン尿症		MONDO:0004737	19
+2200475	[Shoman] Hypermethioninemia	Hypermethioninaemia	[小慢] 高メチオニン血症		MONDO:0000351	12
+2200476	[Shoman] Nonketotic hyperglycinemia	Nonketotic hyperglycinaemia|NKH	[小慢] 非ケトーシス型高グリシン血症		MONDO:0011612	16
+2200477	[Shoman] N-acetylglutamate synthetase deficiency	NAGS deficiency	[小慢] N-アセチルグルタミン酸合成酵素欠損症		MONDO:0009377	3
+2200478	[Shoman] Carbamoylphosphate synthetase deficiency	Carbamyl phosphate synthetase deficiency	[小慢] カルバミルリン酸合成酵素欠損症		MONDO:0009376	5
+2200479	[Shoman] Ornithine transcarbamylase deficiency		[小慢] オルニチントランスカルバミラーゼ欠損症		MONDO:0010703	4
+2200480	[Shoman] Argininosuccinate synthetase deficiency	Citrullinaemia type 1|Citrullinemia Type 1|Type I citrullinaemia|CTLN1	[小慢] アルギニノコハク酸合成酵素欠損症	シトルリン血症I型|CTLN1	MONDO:0008988	1
+2200481	[Shoman] Argininosuccinic aciduria		[小慢] アルギニノコハク酸尿症		MONDO:0008815	2
+2200482	[Shoman] Hyperargininemia	Hyperargininaemia	[小慢] 高アルギニン血症		MONDO:0008814	6
+2200483	[Shoman] Citrin deficiency		[小慢] シトリン欠損症		MONDO:0016602	14
+2200484	[Shoman] Hyperornithinemia	Hyperornithinaemia	[小慢] 高オルニチン血症		MONDO:0009796	7
+2200487	[Shoman] Hartnup disease		[小慢] ハートナップ病	Hartnup病	MONDO:0009324	15
+2200488	[Shoman] Lysinuric protein intolerance		[小慢] リジン尿性蛋白不耐症		MONDO:0009109	21
+2200489	[Shoman] Cystinuria		[小慢] シスチン尿症		MONDO:0009067	13
+2200490	[Shoman] Other disorders of amino acid metabolism		[小慢] 1から21までに掲げるもののほか、アミノ酸代謝異常症			22
+2200491	[Shoman] Methylmalonic acidemia	Methylmalonic acidaemia|MMA	[小慢] メチルマロン酸血症		MONDO:0002012	109
+2200492	[Shoman] Propionic acidemia	Propionic acidaemia|PA	[小慢] プロピオン酸血症		MONDO:0011628	106
+2200493	[Shoman] Beta-ketothiolase deficiency	β-ketothiolase deficiency	[小慢] β-ケトチオラーゼ欠損症		MONDO:0008760	107
+2200494	[Shoman] Isovaleric acidemia	Isovaleric acidaemia	[小慢] イソ吉草酸血症		MONDO:0009475	95
+2200495	[Shoman] 3-methylcrotonyl-CoA carboxylase deficiency		[小慢] 3-メチルクロトニルCoAカルボキシラーゼ欠損症	メチルクロトニルグリシン尿症	MONDO:0018950	103
+2200496	[Shoman] Methylglutaconic aciduria		[小慢] メチルグルタコン酸尿症		MONDO:0017359	108
+2200497	[Shoman] 3-hydroxy-3-methylglutaric acidemia	3-hydroxy-3-methylglutaric acidaemia|HMG-CoA lyase deficiency	[小慢] 3-ヒドロキシ-3-メチルグルタル酸血症	ＨＭＧ血症	MONDO:0009520	102
+2200498	[Shoman] 3-hydroxy-3-methylglutaryl-CoA synthase deficiency	HMG-CoA synthase deficiency	[小慢] 3-ヒドロキシ-3-メチルグルタリルCoA合成酵素欠損症		MONDO:0011614	101
+2200499	[Shoman] Succinyl-CoA:3-ketoacid CoA transferase deficiency	SCOT deficiency	[小慢] スクシニル-CoA：3-ケト酸CoAトランスフェラーゼ欠損症	SCOT欠損症	MONDO:0009492	100
+2200500	[Shoman] Multiple carboxylase deficiency		[小慢] 複合カルボキシラーゼ欠損症		MONDO:0015454	105
+2200501	[Shoman] Glutaric acidemia type 1	Glutaric acidaemia type 1|Glutaryl-CoA dehydrogenase deficiency|GA1	[小慢] グルタル酸血症1型		MONDO:0009281	97
+2200502	[Shoman] Glutaric acidemia type 2	Glutaric acidaemia type 2|Multiple acyl-CoA dehydrogenase deficiency|GA2|multiple acyl-CoA dehydrogenase deficiency	[小慢] グルタル酸血症2型		MONDO:0009282	98
+2200503	[Shoman] Primary hyperoxaluria		[小慢] 原発性高シュウ酸尿症		MONDO:0002474	99
+2200504	[Shoman] Alkaptonuria		[小慢] アルカプトン尿症		MONDO:0008753	94
+2200505	[Shoman] Glycerol kinase deficiency	GKD	[小慢] グリセロール尿症		MONDO:0010613	96
+2200506	[Shoman] Inborn errors of bile acid metabolism		[小慢] 先天性胆汁酸代謝異常症		MONDO:0019218	104
+2200507	[Shoman] Other disorders of organic acid metabolism		[小慢] 23から38までに掲げるもののほか、有機酸代謝異常症			110
+2200508	[Shoman] Organic cation transporter 2 deficiency	OCTN2 deficiency|Carnitine uptake defect	[小慢] 全身性カルニチン欠損症		MONDO:0008919	46
+2200509	[Shoman] Carnitine palmitoyltransferase I deficiency		[小慢] カルニチンパルミトイルトランスフェラーゼI欠損症	CPT1欠損症	MONDO:0009705	41
+2200510	[Shoman] Carnitine palmitoyltransferase II deficiency	CPT II deficiency	[小慢] カルニチンパルミトイルトランスフェラーゼII欠損症	CPT2欠損症	MONDO:0015515	42
+2200511	[Shoman] Carnitine-acylcarnitine translocase deficiency	CACT deficiency	[小慢] カルニチン/アシルカルニチントランスロカーゼ欠損症	CACT欠損症	MONDO:0008918	40
+2200512	[Shoman] Very-long-chain acyl-CoA dehydrogenase deficiency	VLCADD|VLCAD deficiency	[小慢] 極長鎖アシルCoA脱水素酵素欠損症		MONDO:0008723	43
+2200513	[Shoman] Medium-chain acyl-CoA dehydrogenase deficiency	MCAD deficiency	[小慢] 中鎖アシルCoA脱水素酵素欠損症		MONDO:0008721	48
+2200514	[Shoman] Short-chain acyl-CoA dehydrogenase deficiency	SCAD deficiency	[小慢] 短鎖アシルCoA脱水素酵素欠損症		MONDO:0008722	47
+2200515	[Shoman] Trifunctional protein deficiency	mitochondrial trifunctional protein deficiency|TFP deficiency	[小慢] 三頭酵素欠損症		MONDO:0012172	44
+2200516	[Shoman] 3-hydroxy acyl-CoA dehydrogenase deficiency	HADH deficiency	[小慢] 3-ヒドロキシアシルCoA脱水素酵素欠損症		MONDO:0009278	45
+2200517	[Shoman] Other disorders of fatty-acid metabolism		[小慢] 40から48までに掲げるもののほか、脂肪酸代謝異常症			49
+2200518	[Shoman] Pyruvate dehydrogenase complex deficiency		[小慢] ピルビン酸脱水素酵素複合体欠損症		MONDO:0019169	87
+2200519	[Shoman] Pyruvate carboxylase deficiency		[小慢] ピルビン酸カルボキシラーゼ欠損症		MONDO:0009949	86
+2200520	[Shoman] Fumarase deficiency		[小慢] フマラーゼ欠損症		MONDO:0011730	88
+2200521	[Shoman] Succinyl-CoA ligase deficiency		[小慢] スクシニル-CoAリガーゼ欠損症			85
+2200522	[Shoman] Mitochondrial respiratory chain disorders		[小慢] ミトコンドリア呼吸鎖複合体欠損症		MONDO:0017718	89
+2200523	[Shoman] Mitochondrial DNA depletion syndrome		[小慢] ミトコンドリアDNA枯渇症候群		MONDO:0018158	91
+2200524	[Shoman] Diseases due to mitochondrial DNA mutation		[小慢] ミトコンドリアDNA突然変異		MONDO:0016793	92
+2200528	[Shoman] Diseases due to mitochondrial DNA deletion		[小慢] ミトコンドリアDNA欠失		MONDO:0018158	90
+2200530	[Shoman] Other mitochondrial diseases		[小慢] 50から57までに掲げるもののほか、ミトコンドリア病			93
+2200531	[Shoman] Hereditary fructose intolerance	HFI	[小慢] 遺伝性フルクトース不耐症		MONDO:0009249	57
+2200532	[Shoman] Galactose-1-phosphate uridyltransferase deficiency	Galactose-1-phosphate uridylyltransferase deficiency|Galactosemia type 1|GALT deficiency	[小慢] ガラクトース-1-リン酸ウリジルトランスフェラーゼ欠損症		MONDO:0009258	59
+2200533	[Shoman] Galactokinase deficiency		[小慢] ガラクトキナーゼ欠損症		MONDO:0009255	60
+2200534	[Shoman] UDP-galactose-4-epimerase deficiency		[小慢] ウリジル二リン酸ガラクトース-4-エピメラーゼ欠損症		MONDO:0009257	58
+2200535	[Shoman] Fructose-1,6-bisphosphatase deficiency		[小慢] フルクトース-1,6-ビスホスファターゼ欠損症		MONDO:0009251	70
+2200536	[Shoman] Phosphoenolpyruvate carboxykinase deficiency		[小慢] ホスホエノールピルビン酸カルボキシキナーゼ欠損症		MONDO:0017320	71
+2200537	[Shoman] Glycogen synthase deficiency	Glycogen storage disease type 0|GSD0	[小慢] グリコーゲン合成酵素欠損症	糖原病0型	MONDO:0009414	61
+2200538	[Shoman] Glycogen storage disease type I		[小慢] 糖原病I型		MONDO:0002413	63
+2200539	[Shoman] Glycogen storage disease type III	Cori disease	[小慢] 糖原病III型	Cori病|コーリー病	MONDO:0009291	64
+2200540	[Shoman] Glycogen storage disease type IV	Andersen disease	[小慢] 糖原病IV型		MONDO:0009292	65
+2200541	[Shoman] Glycogen storage disease type V	McArdle disease	[小慢] 糖原病V型	McArdle病|マッカードル病	MONDO:0009293	66
+2200542	[Shoman] Glycogen storage disease type VI		[小慢] 糖原病VI型	ハース病	MONDO:0009294	67
+2200543	[Shoman] Glycogen storage disease type VII	Tarui disease	[小慢] 糖原病VII型		MONDO:0009295	68
+2200544	[Shoman] Glycogen storage disease type IX		[小慢] 糖原病IX型		MONDO:0018251	69
+2200545	[Shoman] Glucose transporter 1 deficiency	GLUT-1 deficiency|GLUT-1 DS	[小慢] グルコーストランスポーター1欠損症	GLUT1欠損症	MONDO:0011724	62
+2200546	[Shoman] Other disorders of carbohydrate metabolism		[小慢] 59から73までに掲げるもののほか、糖質代謝異常症			72
+2200547	[Shoman] Mucopolysaccharidosis type I	MPS I	[小慢] ムコ多糖症I型	Hurler-Scheie症候群	MONDO:0001586	129
+2200548	[Shoman] Mucopolysaccharidosis type II	MPS II|Hunter syndrome	[小慢] ムコ多糖症II型	Hunter症候群	MONDO:0010674	130
+2200549	[Shoman] Mucopolysaccharidosis type III	MPS III|Sanfilippo syndrome	[小慢] ムコ多糖症III型	Sanfilippo症候群	MONDO:0018937	131
+2200550	[Shoman] Mucopolysaccharidosis type IV	MPS IV|Morquio disease	[小慢] ムコ多糖症IV型	Morquio症候群	MONDO:0018938	132
+2200551	[Shoman] Mucopolysaccharidosis type VI	MPS VI|Maroteaux-Lamy syndrome|Maroteaux-Lamy disease	[小慢] ムコ多糖症VI型	Maroteaux-Lamy症候群|マロトー・ラミー症候群|マロトー・ラミー病	MONDO:0009661	133
+2200552	[Shoman] Mucopolysaccharidosis type VII	MPS VII|Sly disease	[小慢] ムコ多糖症VII型	Sly病	MONDO:0009662	134
+2200553	[Shoman] Fucosidosis		[小慢] フコシドーシス		MONDO:0009254	125
+2200554	[Shoman] Mannosidosis		[小慢] マンノシドーシス			128
+2200555	[Shoman] Aspartylglucosaminuria		[小慢] アスパルチルグルコサミン尿症		MONDO:0008830	111
+2200556	[Shoman] Sialidosis		[小慢] シアリドーシス		MONDO:0017734	117
+2200557	[Shoman] Galactosialidosis		[小慢] ガラクトシアリドーシス		MONDO:0009737	113
+2200558	[Shoman] GM1 Gangliosidosis	Beta-galactosidase-1 deficiency	[小慢] GM1ガングリオシドーシス		MONDO:0018149	118
+2200559	[Shoman] GM2 gangliosidosis		[小慢] GM2ガングリオシドーシス		MONDO:0017720	119
+2200560	[Shoman] Metachromatic leukodystrophy	MLD	[小慢] 異染性白質ジストロフィー		MONDO:0018868	112
+2200561	[Shoman] Niemann-Pick disease	NPD	[小慢] ニーマン・ピック病	Niemann-Pick病	MONDO:0001982	122
+2200562	[Shoman] Gaucher disease		[小慢] ゴーシェ病	Gaucher病	MONDO:0018150	115
+2200563	[Shoman] Fabry disease		[小慢] ファブリー病	Fabry病	MONDO:0010526	124
+2200564	[Shoman] Krabbe disease		[小慢] クラッベ病	Krabbe病	MONDO:0009499	114
+2200565	[Shoman] Farber disease	Farber's lipogranulomatosis|FD	[小慢] ファーバー病	Farber病	MONDO:0009218	123
+2200566	[Shoman] Multiple sulfatase deficiency		[小慢] マルチプルスルファターゼ欠損症	マルチプルサルファターゼ欠損症|多発性スルファターゼ欠損症	MONDO:0010088	127
+2200567	[Shoman] Mucolipidosis II	ML II|I-cell disease	[小慢] ムコリピドーシスII型	I-cell病	MONDO:0009650	135
+2200568	[Shoman] Mucolipidosis III	ML III	[小慢] ムコリピドーシスIII型		MONDO:0018931	136
+2200569	[Shoman] Pompe disease	glycogen storage disease type II	[小慢] ポンペ病	Pompe病	MONDO:0009290	126
+2200570	[Shoman] Acid lipase deficiency	Wolman disease and cholesterol ester storage disease	[小慢] 酸性リパーゼ欠損症		MONDO:0019148	116
+2200571	[Shoman] Cystinosis		[小慢] シスチン症		MONDO:0016239	120
+2200572	[Shoman] Free Sialic Acid Storage Disease		[小慢] 遊離シアル酸蓄積症		MONDO:0019366	137
+2200573	[Shoman] Neuronal ceroid lipofuscinoses	NCL	[小慢] 神経セロイドリポフスチン症	セロイドリポフスチノーシス	MONDO:0016295	121
+2200574	[Shoman] Other lysosomal diseases		[小慢] 75から101までに掲げるもののほか、ライソゾーム病			138
+2200575	[Shoman] Peroxisome biogenesis disorders	PBD	[小慢] ペルオキシソーム形成異常症	PEX遺伝子異常症	MONDO:0019234	82
+2200576	[Shoman] Adrenoleukodystrophy		[小慢] 副腎白質ジストロフィー		MONDO:0018544	81
+2200577	[Shoman] Refsum disease		[小慢] レフサム病	Refsum病	MONDO:0009958	83
+2200578	[Shoman] Other peroxisomal diseases		[小慢] 103から105までに掲げるもののほか、ペルオキシソーム病			84
+2200579	[Shoman] Wilson disease		[小慢] ウィルソン病	Wilson病	MONDO:0010200	25
+2200580	[Shoman] Menkes disease		[小慢] メンケス病	Menkes病	MONDO:0010651	29
+2200581	[Shoman] Occipital horn syndrome		[小慢] オクシピタル・ホーン症候群		MONDO:0010572	26
+2200582	[Shoman] Aceruloplasminemia	Aceruloplasminaemia	[小慢] 無セルロプラスミン血症		MONDO:0011426	28
+2200583	[Shoman] Sulfite oxidase deficiency		[小慢] 亜硫酸酸化酵素欠損症		MONDO:0010089	24
+2200584	[Shoman] Acrodermatitis enteropathica		[小慢] 先天性腸性肢端皮膚炎		MONDO:0008713	27
+2200585	[Shoman] Other disorders of metal metabolism		[小慢] 107から112までに掲げるもののほか、金属代謝異常症			30
+2200586	[Shoman] Lesch-Nyhan syndrome	Hypoxanthine-guanine phosphoribosyltransferase deficiency|HPRT deficiency	[小慢] ヒポキサンチングアニンホスホリボシルトランスフェラーゼ欠損症	レッシュ・ナイハン症候群|Lesch-Nyhan症候群	MONDO:0010298|MONDO:0016088	79
+2200587	[Shoman] Adenine phosphoribosyltransferase deficiency		[小慢] アデニンホスホリボシルトランスフェラーゼ欠損症		MONDO:0013869	75
+2200588	[Shoman] Xanthinuria		[小慢] キサンチン尿症		MONDO:0000721	77
+2200589	[Shoman] Genetic defects in urate transporters		[小慢] 尿酸トランスポーター異常症			78
+2200590	[Shoman] Orotic aciduria		[小慢] オロト酸尿症	オロチン酸尿症	MONDO:0009797	76
+2200591	[Shoman] Other disorders of purine and pyrimidine metabolism		[小慢] 114から118までに掲げるもののほか、プリンピリミジン代謝異常症			80
+2200592	[Shoman] Hereditary folate malabsorption	Congenital folate malabsorption	[小慢] 先天性葉酸吸収不全症		MONDO:0009238	73
+2200593	[Shoman] Other disorders of vitamin metabolism		[小慢] 120に掲げるもののほか、ビタミン代謝異常症			74
+2200594	[Shoman] Tetrahydrobiopterin deficiency	BH4 deficiency	[小慢] ビオプテリン代謝異常症	BH4欠損症	MONDO:0016543	54
+2200595	[Shoman] Tyrosine hydroxylase deficiency		[小慢] チロシン水酸化酵素欠損症		MONDO:0100064	52
+2200596	[Shoman] Aromatic L-amino acid decarboxylase deficiency		[小慢] 芳香族L-アミノ酸脱炭酸酵素欠損症		MONDO:0012084	55
+2200597	[Shoman] Dopamine beta hydroxylase deficiency	dopamine-β-hydroxylase deficiency	[小慢] ドーパミンβ-水酸化酵素欠損症		MONDO:0009123	53
+2200598	[Shoman] Gamma-amino butyrate aminotransferase deficiency		[小慢] GABAアミノ基転移酵素欠損症		MONDO:0013166	50
+2200599	[Shoman] Succinic semialdehyde dehydrogenase deficiency	SSADH deficiency|SSADHD	[小慢] コハク酸セミアルデヒド脱水素酵素欠損症	SSADH欠損症	MONDO:0010083	51
+2200600	[Shoman] Other disorder of neurotransmitter metabolism and transport		[小慢] 122から127までに掲げるもののほか、神経伝達物質異常症			56
+2200601	[Shoman] Primary hyperchylomicronemia	Primary hyperchylomicronaemia	[小慢] 原発性高カイロミクロン血症			36
+2200602	[Shoman] Familial hypercholesterolemia	Familial hypercholesterolaemia|FH	[小慢] 家族性高コレステロール血症		MONDO:0005439|MONDO:0007750|MONDO:0016525	34
+2200603	[Shoman] Familial combined hyperlipidemia	Familial combined hyperlipidaemia|FCHL	[小慢] 家族性複合型高脂血症		MONDO:0001336	35
+2200604	[Shoman] Abetalipoproteinemia	Abetalipoproteinaemia	[小慢] 無βリポタンパク血症		MONDO:0008692	38
+2200605	[Shoman] HDL deficiency	high density lipoprotein deficiency	[小慢] 高比重リポタンパク欠乏症	HDL欠乏症	MONDO:0017773|MONDO:0100189	37
+2200606	[Shoman] Other disorder of lipid metabolism		[小慢] 129から133までに掲げるもののほか、脂質代謝異常症			39
+2200607	[Shoman] Ehlers-Danlos syndrome	EDS	[小慢] エーラス・ダンロス症候群	Ehlers-Danlos症候群	MONDO:0020066	31
+2200608	[Shoman] Lipoid proteinosis		[小慢] リポイドタンパク症		MONDO:0009530	32
+2200609	[Shoman] Other connective tissue disorder		[小慢] 135及び136に掲げるもののほか、結合組織異常症			33
+2200610	[Shoman] Congenital porphyria		[小慢] 先天性ポルフィリン症		MONDO:0019142	11
+2200611	[Shoman] Alpha-1-antitrypsin deficiency	AATD|α-1-antitrypsin deficiency	[小慢] α1-アンチトリプシン欠損症		MONDO:0013282	23
+2200612	[Shoman] Megaloblastic anemia	Megaloblastic anaemia	[小慢] 巨赤芽球性貧血		MONDO:0001700	10
+2200613	[Shoman] Acquired pure red cell aplasia		[小慢] 後天性赤芽球癆		MONDO:0020338	26
+2200614	[Shoman] Congenital red cell aplasia	Diamond-Blackfan anaemia	[小慢] 先天性赤芽球癆	ダイアモンド・ブラックファン貧血|Diamond-Blackfan貧血	MONDO:0015253	27
+2200615	[Shoman] Congenital dyserythropoietic anemia	Congenital dyserythropoietic anaemia|CDA	[小慢] 先天性赤血球形成異常性貧血		MONDO:0019403	43
+2200616	[Shoman] Sideroblastic anemia	Sideroblastic anaemia	[小慢] 鉄芽球性貧血		MONDO:0015194	46
+2200617	[Shoman] Congenital atransferrinemia	Congenital atransferrinaemia	[小慢] 無トランスフェリン血症		MONDO:0008846	50
+2200618	[Shoman] Cold agglutinin disease	CAD	[小慢] 寒冷凝集素症		MONDO:0018922	21
+2200619	[Shoman] Paroxysmal cold hemoglobinuria	PCH|Paroxysmal cold haemoglobinuria	[小慢] 発作性寒冷ヘモグロビン尿症		MONDO:0019533	22
+2200620	[Shoman] Other autoimmune hemolytic anemia	Other autoimmune haemolytic anaemia	[小慢] 7及び8に掲げるもののほか、自己免疫性溶血性貧血			23
+2200621	[Shoman] Paroxysmal nocturnal hemoglobinuria	PNH|Paroxysmal nocturnal haemoglobinuria	[小慢] 発作性夜間ヘモグロビン尿症		MONDO:0018641	48
+2200622	[Shoman] Hereditary spherocytosis	HS	[小慢] 遺伝性球状赤血球症		MONDO:0019350	1
+2200623	[Shoman] Hereditary stomatocytosis		[小慢] 口唇赤血球症		MONDO:0020102	4
+2200624	[Shoman] Sickle cell disease	SCD	[小慢] 鎌状赤血球症		MONDO:0011382	2
+2200625	[Shoman] Unstable hemoglobin disease	Unstable haemoglobin disease	[小慢] 不安定ヘモグロビン症		MONDO:0020459	7
+2200626	[Shoman] Thalassemia	Thalassaemia	[小慢] サラセミア		MONDO:0000984	5
+2200627	[Shoman] Glucose-6-phosphate dehydrogenase deficiency		[小慢] グルコース-6-リン酸脱水素酵素欠乏症		MONDO:0005775	3
+2200628	[Shoman] Hemolytic anemia due to red cell pyruvate kinase deficiency	Hemolytic anaemia due to red cell pyruvate kinase deficiency	[小慢] ピルビン酸キナーゼ欠乏性貧血		MONDO:0009950	6
+2200629	[Shoman] Other hereditary hemolytic anemia	Other hereditary haemolytic anaemia	[小慢] 11から17までに掲げるもののほか、遺伝性溶血性貧血			8
+2200636	[Shoman] Hemolytic anemia	Haemolytic anaemia	[小慢] 溶血性貧血（脾機能亢進症によるものに限る。）		MONDO:0003664	52
+2200638	[Shoman] Microangiopathic hemolytic anemia	Microangiopathic haemolytic anaemia|MAHA	[小慢] 微小血管障害性溶血性貧血			47
+2200643	[Shoman] Polycythemia vera	Polycythaemia vera|PV	[小慢] 真性多血症		MONDO:0009891	25
+2200644	[Shoman] Familial polycythemia	Familial polycythaemia	[小慢] 家族性赤血球増加症		MONDO:0001115	9
+2200645	[Shoman] Immune thrombocytopenic purpura		[小慢] 免疫性血小板減少性紫斑病		MONDO:0008558	16
+2200646	[Shoman] Other thrombocytopenic purpura		[小慢] 23に掲げるもののほか、血小板減少性紫斑病			17
+2200649	[Shoman] Thrombotic thrombocytopenic purpura		[小慢] 血栓性血小板減少性紫斑病		MONDO:0018896	18
+2200650	[Shoman] Thrombocytopenia due to hypersplenism		[小慢] 血小板減少症（脾機能亢進症によるものに限る。）			15
+2200651	[Shoman] Congenital amegakaryocytic thrombocytopenia	CAMT|Congenital amegakaryocytic thrombocytopaenia	[小慢] 先天性無巨核球性血小板減少症		MONDO:0011469	41
+2200652	[Shoman] Fanconi anemia	Fanconi anaemia	[小慢] ファンコニ貧血	Fanconi貧血	MONDO:0019391	42
+2200653	[Shoman] Cyclic thrombocytopenia		[小慢] 周期性血小板減少症		MONDO:0008556	24
+2200654	[Shoman] May-Hegglin anomaly		[小慢] メイ・ヘグリン異常症	May-Hegglin異常症	MONDO:0007954	51
+2200655	[Shoman] Essential thrombocythemia	Essential thrombocythaemia|ET	[小慢] 本態性血小板血症		MONDO:0005029	49
+2200656	[Shoman] Bernard-Soulier syndrome		[小慢] ベルナール・スーリエ症候群	Bernard-Soulier症候群	MONDO:0009276	13
+2200657	[Shoman] Thrombasthenia		[小慢] 血小板無力症		MONDO:0010119	12
+2200658	[Shoman] Platelet secretion defects		[小慢] 血小板放出機構異常症			11
+2200659	[Shoman] Other platelet dysfunction		[小慢] 32から34までに掲げるもののほか、血小板機能異常症			14
+2200672	[Shoman] Afibrinogenemia	Afibrinogenaemia|Congenital afibrinogenaemia|Congenital afibrinogenemia	[小慢] 先天性フィブリノーゲン欠乏症	先天性フィブリノゲン欠損症	MONDO:0008737	31
+2200673	[Shoman] Hypoprothrombinemia	Hypoprothrombinaemia|Congenital hypoprothrombinaemia|Congenital hypoprothrombinemia	[小慢] 先天性プロトロンビン欠乏症		MONDO:0013361	32
+2200674	[Shoman] Factor V deficiency		[小慢] 第V因子欠乏症		MONDO:0020586	33
+2200675	[Shoman] Factor VII deficiency		[小慢] 第VII因子欠乏症		MONDO:0002244	34
+2200676	[Shoman] Hemophilia A	Haemophilia A|Factor VIII deficiency	[小慢] 血友病Ａ	第VIII因子欠乏症	MONDO:0010602	29
+2200677	[Shoman] Hemophilia B	Haemophilia B|Factor IX deficiency	[小慢] 血友病Ｂ	第IX因子欠乏症	MONDO:0010604	30
+2200678	[Shoman] Factor X deficiency		[小慢] 第Ⅹ因子欠乏症		MONDO:0002247	35
+2200679	[Shoman] Factor XI deficiency		[小慢] 第XI因子欠乏症		MONDO:0020587	36
+2200680	[Shoman] Factor XII deficiency		[小慢] 第XII因子欠乏症		MONDO:0009315	37
+2200681	[Shoman] Factor XIII deficiency		[小慢] 第XIII因子欠乏症		MONDO:0002241|MONDO:0018029	38
+2200682	[Shoman] Von Willebrand disease	VWD	[小慢] フォンウィルブランド病	von Willebrand病	MONDO:0024574	39
+2200683	[Shoman] Other inherited bleeding disorder		[小慢] 36から46までに掲げるもののほか、先天性血液凝固因子異常			40
+2200689	[Shoman] Protein C deficiency	Heritable thrombophilia|Congenital protein C deficiency	[小慢] 先天性プロテインC欠乏症		MONDO:0019145	44
+2200690	[Shoman] Protein S deficiency	Heritable thrombophilia	[小慢] 先天性プロテインS欠乏症		MONDO:0002304	45
+2200691	[Shoman] Antithrombin deficiency	Heritable thrombophilia	[小慢] 先天性アンチトロンビン欠乏症			28
+2200692	[Shoman] Myelofibrosis	MF	[小慢] 骨髄線維症		MONDO:0044903	19
+2200693	[Shoman] Aplastic anemia	Aplastic anaemia	[小慢] 再生不良性貧血		MONDO:0015909	20
+2200694	[Shoman] X-linked severe combined immunodeficiency	X-SCID	[小慢] X連鎖重症複合免疫不全症		MONDO:0010315	30
+2200695	[Shoman] Reticular dysgenesis		[小慢] 細網異形成症		MONDO:0009973	32
+2200696	[Shoman] Adenosine deaminase deficiency	ADA deficiency	[小慢] アデノシンデアミナーゼ欠損症	ADA欠損症	MONDO:0007064	29
+2200697	[Shoman] Omenn syndrome		[小慢] オーメン症候群	Omenn症候群	MONDO:0011338	31
+2200698	[Shoman] Purine nucleoside phosphorylase deficiency		[小慢] プリンヌクレオシドホスホリラーゼ欠損症		MONDO:0013171	35
+2200699	[Shoman] CD8 deficiency		[小慢] CD8欠損症		MONDO:0012161	34
+2200700	[Shoman] ZAP-70 deficiency		[小慢] ZAP-70欠損症		MONDO:0010023	33
+2200701	[Shoman] MHC class I deficiency	Major histocompatibility complex class I deficiency	[小慢] MHCクラスI欠損症		MONDO:0011476	36
+2200702	[Shoman] MHC class II deficiency	Major histocompatibility complex class II deficiency	[小慢] MHCクラスII欠損症		MONDO:0008855	37
+2200703	[Shoman] Other combined immunodeficiencies	Combined immunodeficiencies	[小慢] 1から9までに掲げるもののほか、複合免疫不全症			38
+2200704	[Shoman] Wiskott-Aldrich syndrome		[小慢] ウィスコット・オルドリッチ症候群	Wiskott-Aldrich症候群	MONDO:0010518	46
+2200705	[Shoman] Ataxia telangiectasia		[小慢] 毛細血管拡張性運動失調症		MONDO:0008840	55
+2200706	[Shoman] Nijmegen breakage syndrome		[小慢] ナイミーヘン染色体不安定症候群	Nijmegen染色体不安定症候群	MONDO:0009623	52
+2200707	[Shoman] Bloom syndrome		[小慢] ブルーム症候群	Bloom症候群	MONDO:0008876	54
+2200708	[Shoman] ICF syndrome		[小慢] ICF症候群		MONDO:0000133	45
+2200709	[Shoman] PMS2 deficiency		[小慢] PMS2異常症			53
+2200710	[Shoman] RIDDLE syndrome	Radiosensitivity, immunodeficiency dysmorphic features and learning difficulties syndrome	[小慢] RIDDLE症候群		MONDO:0012764	56
+2200711	[Shoman] Schimke syndrome		[小慢] シムケ症候群	Schimke症候群	MONDO:0009458	50
+2200712	[Shoman] Thymus hypoplasia	DiGeorge syndrome|22q11.2 deletion syndrome	[小慢] 胸腺低形成	22q11.2欠失症候群|ディ・ジョージ症候群	MONDO:0008564|MONDO:0008644|MONDO:0018923	48
+2200713	[Shoman] Hyper-IgE syndrome		[小慢] 高IgE症候群		MONDO:0018037	49
+2200714	[Shoman] Hepatic veno-occlusive disease with immunodeficiency	VODI	[小慢] 肝中心静脈閉鎖症を伴う免疫不全症		MONDO:0009338	47
+2200715	[Shoman] Dyskeratosis congenita		[小慢] 先天性角化異常症	先天性角化不全症	MONDO:0015780	51
+2200716	[Shoman] X-linked agammaglobulinemia	X-linked agammaglobulinaemia|XLA	[小慢] X連鎖無ガンマグロブリン血症		MONDO:0010421	2
+2200717	[Shoman] Common variable immunodeficiency	CVID	[小慢] 分類不能型免疫不全症		MONDO:0015517	7
+2200718	[Shoman] Hyper-IgM syndrome		[小慢] 高IgM症候群		MONDO:0003947	3
+2200719	[Shoman] Isolated IgG subclass deficiency		[小慢] IgGサブクラス欠損症		MONDO:0013576	1
+2200720	[Shoman] Selective IgA deficiency		[小慢] 選択的IgA欠損症		MONDO:0001341	4
+2200721	[Shoman] Specific antibody deficiency with normal Ig concentrations and normal numbers of B cells		[小慢] 特異抗体産生不全症		MONDO:0015711	5
+2200722	[Shoman] Transient hypogammaglobulinemia of infancy with normal numbers of B cells	Transient hypogammaglobulinaemia of infancy with normal numbers of B cells	[小慢] 乳児一過性低ガンマグロブリン血症		MONDO:0015698	6
+2200723	[Shoman] Other predominantly antibody deficiencies		[小慢] 23から29までに掲げるもののほか、液性免疫不全を主とする疾患			8
+2200724	[Shoman] Chédiak-Higashi syndrome	CHS	[小慢] チェディアック・東症候群	Chediak-Higashi症候群	MONDO:0008963	43
+2200725	[Shoman] X-linked lymphoproliferative syndrome	XLP	[小慢] X連鎖リンパ増殖症候群		MONDO:0010627	41
+2200726	[Shoman] Autoimmune lymphoproliferative syndrome	ALPS	[小慢] 自己免疫性リンパ増殖症候群	ALPS	MONDO:0017979	42
+2200727	[Shoman] Other diseases of immune dysregulation		[小慢] 31から33までに掲げるもののほか、免疫調節障害			44
+2200745	[Shoman] Severe congenital neutropenia		[小慢] 重症先天性好中球減少症		MONDO:0018542	10
+2200746	[Shoman] Cyclic neutropenia		[小慢] 周期性好中球減少症		MONDO:0008090	9
+2200747	[Shoman] Other congenital defects of neutrophil function		[小慢] 35及び36に掲げるもののほか、慢性の経過をたどる好中球減少症			11
+2200755	[Shoman] Leukocyte adhesion deficiency	LAD	[小慢] 白血球接着不全症		MONDO:0017570	13
+2200756	[Shoman] Shwachman-Diamond syndrome	SDS	[小慢] シュワッハマン・ダイアモンド症候群	Shwachman-Diamond症候群	MONDO:0009833	12
+2200757	[Shoman] Chronic granulomatous disease	CGD	[小慢] 慢性肉芽腫症		MONDO:0018305	14
+2200758	[Shoman] Myeloperoxidase deficiency		[小慢] ミエロペルオキシダーゼ欠損症		MONDO:0009694	15
+2200759	[Shoman] Mendelian susceptibility to mycobacterial disease	MSMD	[小慢] メンデル遺伝型マイコバクテリア易感染症		MONDO:0019146	16
+2200760	[Shoman] Other congenital defects of phagocyte function		[小慢] 38から42までに掲げるもののほか、白血球機能異常			17
+2200761	[Shoman] Anhidrotic ectodermal dysplasia with immunodeficiency	EDA-ID	[小慢] 免疫不全を伴う無汗性外胚葉形成異常症		MONDO:0010293	24
+2200762	[Shoman] IRAK4 deficiency		[小慢] IRAK4欠損症		MONDO:0011888	21
+2200763	[Shoman] MyD88 deficiency		[小慢] MyD88欠損症		MONDO:0012839	23
+2200764	[Shoman] Chronic mucocutaneous candidiasis	CMC	[小慢] 慢性皮膚粘膜カンジダ症		MONDO:0015279	22
+2200765	[Shoman] Other defects in innate immunity		[小慢] 44から47までに掲げるもののほか、自然免疫異常			25
+2200776	[Shoman] Inherited deficiency of complement system		[小慢] 先天性補体欠損症		MONDO:0003832	27
+2200795	[Shoman] Hereditary angioedema	C1 inhibitor deficiency	[小慢] 遺伝性血管性浮腫	C1インヒビター欠損症	MONDO:0007361|MONDO:0019623	26
+2200796	[Shoman] Other inherited deficiency of complement system		[小慢] 49及び50に掲げるもののほか、先天性補体欠損症			28
+2200805	[Shoman] Hyper eosinophilic syndrome		[小慢] 好酸球増加症		MONDO:0015691	18
+2200808	[Shoman] Chronic active EB virus infection	CAEBV	[小慢] 慢性活動性EBウイルス感染症		MONDO:0009194	40
+2200809	[Shoman] Acquired immune deficiency syndrome	AIDS	[小慢] 後天性免疫不全症候群		MONDO:0012268	19
+2200811	[Shoman] Phenocopies of primary immunodeficiency		[小慢] 後天的な免疫系障害による免疫不全症			20
+2200812	[Shoman] Chronic graft-versus-host disease	Chronic GVHD	[小慢] 慢性移植片対宿主病		MONDO:0020547	39
+2200813	[Shoman] Meningoencephalocele		[小慢] 髄膜脳瘤		MONDO:0017079	41
+2200814	[Shoman] Myelomeningocele		[小慢] 脊髄髄膜瘤		MONDO:0017069|MONDO:0019773	42
+2200815	[Shoman] Spinal lipoma		[小慢] 脊髄脂肪腫		MONDO:0001790	40
+2200816	[Shoman] Sacrococcygeal teratoma		[小慢] 仙尾部奇形腫		MONDO:0042727	57
+2200817	[Shoman] Lissencephaly		[小慢] 滑脳症		MONDO:0018838	84
+2200818	[Shoman] Schizencephaly		[小慢] 裂脳症		MONDO:0010011	93
+2200819	[Shoman] Holoprosencephaly		[小慢] 全前脳胞症		MONDO:0016296	88
+2200820	[Shoman] Septo-optic dysplasia	De Morsier syndrome|SOD	[小慢] 中隔視神経形成異常症	ドモルシア症候群|de Morsier症候群|中隔視神経異常症|中隔視神経異形成症	MONDO:0008428	91
+2200821	[Shoman] Dandy-Walker syndrome		[小慢] ダンディー・ウォーカー症候群	Dandy-Walker症候群	MONDO:0009072	90
+2200822	[Shoman] Congenital hydrocephalus		[小慢] 先天性水頭症		MONDO:0016349	89
+2200823	[Shoman] Megalencephaly-capillary malformation syndrome	Megalencephaly-capillary malformation-polymicrogyria	[小慢] 巨脳症－毛細血管奇形症候群		MONDO:0011240	86
+2200824	[Shoman] Joubert syndrome related disorders		[小慢] ジュベール症候群関連疾患	Joubert症候群関連疾患	MONDO:0015369	23
+2200825	[Shoman] Rett syndrome		[小慢] レット症候群	Rett症候群	MONDO:0010726	105
+2200826	[Shoman] Tuberous sclerosis complex	TSC|Tuberous sclerosis	[小慢] 結節性硬化症		MONDO:0001734|MONDO:0019341	26
+2200827	[Shoman] Neurocutaneous melanosis		[小慢] 神経皮膚黒色症		MONDO:0009578	28
+2200828	[Shoman] Gorlin syndrome	Basal cell nevus syndrome	[小慢] ゴーリン症候群	Gorlin症候群|基底細胞母斑症候群	MONDO:0007187	27
+2200829	[Shoman] von Hippel-Lindau disease		[小慢] フォンヒッペル・リンドウ病	von Hippel-Lindau病	MONDO:0008667	30
+2200830	[Shoman] Sturge-Weber syndrome		[小慢] スタージ・ウェーバー症候群	Sturge-Weber症候群	MONDO:0008501	29
+2200831	[Shoman] Werner syndrome		[小慢] ウェルナー症候群	Werner症候群	MONDO:0010196	59
+2200832	[Shoman] Cockayne syndrome		[小慢] コケイン症候群	Cockayne症候群	MONDO:0016006	60
+2200833	[Shoman] Hutchinson-Gilford syndrome	Hutchinson-Gilford progeria syndrome|HGPS	[小慢] ハッチンソン・ギルフォード症候群		MONDO:0008310	61
+2200834	[Shoman] Canavan disease		[小慢] カナバン病	Canavan病	MONDO:0010079	3
+2200835	[Shoman] Alexander disease		[小慢] アレキサンダー病	Alexander病	MONDO:0008752	2
+2200836	[Shoman] Congenital hypomyelinating leukodystrophy		[小慢] 先天性大脳白質形成不全症		MONDO:0019046	4
+2200837	[Shoman] Megaloencephalic leukoencephalopathy with subcortical cysts		[小慢] 皮質下嚢胞をもつ大頭型白質脳症		MONDO:0011391	6
+2200838	[Shoman] Vanishing white matter disease		[小慢] 白質消失症		MONDO:0011380	5
+2200839	[Shoman] ATR-X syndrome	X-linked a-thalassemia/intellectual disability syndrome	[小慢] ATR-X症候群	X連鎖αサラセミア・精神遅滞症候群	MONDO:0010519	10
+2200840	[Shoman] Fragile X syndrome		[小慢] 脆弱Ｘ症候群		MONDO:0010383	37
+2200841	[Shoman] Inherited glycosylphosphatidylinositol deficiency	IGD	[小慢] 先天性グリコシルホスファチジルイノシトール欠損症	先天性GPI欠損症	MONDO:0024321	65
+2200842	[Shoman] Cerebral creatine deficiency syndrome		[小慢] 脳クレアチン欠乏症候群		MONDO:0000456	83
+2200843	[Shoman] Non-syndromic craniosynostosis		[小慢] 非症候性頭蓋骨縫合早期癒合症		MONDO:0015337	35
+2200844	[Shoman] Apert syndrome		[小慢] アペール症候群	Apert症候群	MONDO:0007041	33
+2200845	[Shoman] Crouzon disease		[小慢] クルーゾン病	Crouzon病	MONDO:0007405	34
+2200846	[Shoman] Other craniosynostosis		[小慢] 37から39までに掲げるもののほか、重度の頭蓋骨縫合早期癒合症			36
+2200850	[Shoman] Moyamoya disease		[小慢] もやもや病	ウィリス動脈輪閉塞症	MONDO:0016820	103
+2200851	[Shoman] Cerebral arteriovenous malformation	Cerebral AVM	[小慢] 脳動静脈奇形		MONDO:0007154	94
+2200852	[Shoman] Cavernous angioma of the brain and spinal cord		[小慢] 海綿状血管腫（脳脊髄）		MONDO:0002327	11
+2200853	[Shoman] Spinal muscular atrophy		[小慢] 脊髄性筋萎縮症		MONDO:0001516	43
+2200854	[Shoman] Congenital insensitivity to pain with anhidrosis	CIPA	[小慢] 先天性無痛無汗症		MONDO:0009746	49
+2200855	[Shoman] Hereditary Motor and Sensory Neuropathy	Charcot-Marie-Tooth disease	[小慢] 遺伝性運動感覚ニューロパチー		MONDO:0015358|MONDO:0015626	48
+2200856	[Shoman] Duchenne muscular dystrophy		[小慢] デュシェンヌ型筋ジストロフィー	Duchenne型筋ジストロフィー	MONDO:0010679	16
+2200857	[Shoman] Emery-Dreifuss muscular dystrophy		[小慢] エメリー・ドレイフス型筋ジストロフィー	Emery-Dreifuss型筋ジストロフィー	MONDO:0016830	13
+2200858	[Shoman] Limb-girdle muscular dystrophy		[小慢] 肢帯型筋ジストロフィー		MONDO:0016971	15
+2200859	[Shoman] Facioscapulohumeral muscular dystrophy	FSMD	[小慢] 顔面肩甲上腕型筋ジストロフィー		MONDO:0001347	14
+2200860	[Shoman] Fukuyama type congenital muscular dystrophy	FCMD	[小慢] 福山型先天性筋ジストロフィー		MONDO:0009678	17
+2200861	[Shoman] Merosin-deficient congenital muscular dystrophy		[小慢] メロシン欠損型先天性筋ジストロフィー		MONDO:0011925	18
+2200862	[Shoman] Ullrich congenital muscular dystrophy	Ullrich disease|Ullrich's disease	[小慢] ウルリヒ型先天性筋ジストロフィー	Ullrich型先天性筋ジストロフィー|ウルリッヒ病	MONDO:0000355	12
+2200863	[Shoman] Other muscular dystrophy		[小慢] 47から53に掲げるもののほか、筋ジストロフィー			19
+2200867	[Shoman] Myotubular myopathy	X-linked centronuclear myopathy	[小慢] ミオチュブラーミオパチー		MONDO:0002921|MONDO:0018947	54
+2200868	[Shoman] Congenital fiber-type disproportion myopathy		[小慢] 先天性筋線維不均等症	先天性筋線維タイプ不均等症	MONDO:0009711	50
+2200869	[Shoman] Nemaline myopathy		[小慢] ネマリンミオパチー		MONDO:0018958	52
+2200870	[Shoman] Central core disease		[小慢] セントラルコア病		MONDO:0007294	51
+2200871	[Shoman] Multicore disease		[小慢] マルチコア病		MONDO:0018948	53
+2200872	[Shoman] Minicore myopathy	Mini core disease	[小慢] ミニコア病		MONDO:0009712	55
+2200873	[Shoman] Other congenital structural myopathy		[小慢] 56から61までに掲げるもののほか、先天性ミオパチー			56
+2200876	[Shoman] Schwartz-Jampel syndrome	SJS	[小慢] シュワルツ・ヤンペル症候群	Schwartz-Jampel症候群	MONDO:0009717	24
+2200877	[Shoman] Severe myoclonic epilepsy in infancy	Dravet syndrome	[小慢] 乳児重症ミオクロニーてんかん	Dravet症候群|ドラベ症候群	MONDO:0100135	74
+2200878	[Shoman] West syndrome	Infantile spasms	[小慢] 点頭てんかん	ウエスト症候群|West症候群	MONDO:0018097	73
+2200879	[Shoman] Lennox-Gastaut syndrome		[小慢] レノックス・ガストー症候群	Lennox-Gastaut症候群	MONDO:0016532	80
+2200880	[Shoman] Unverricht-Lundborg disease	ULD	[小慢] ウンフェルリヒト・ルントボルク病	Unverricht-Lundborg病	MONDO:0009698	31
+2200881	[Shoman] Lafora disease		[小慢] ラフォラ病	Lafora病	MONDO:0009697	32
+2200882	[Shoman] spinocerebellar degeneration	SCD	[小慢] 脊髄小脳変性症			39
+2200883	[Shoman] Alternating hemiplegia of childhood	AHC	[小慢] 小児交互性片麻痺		MONDO:0016241	25
+2200884	[Shoman] Dystonia musculorum deformans		[小慢] 変形性筋ジストニー		MONDO:0007492	101
+2200885	[Shoman] Segawa syndrome	Dopamine-responsive dystonia|DRD|Hereditary progressive dystonia with diurnal variation|HPD	[小慢] 瀬川病		MONDO:0016812	100
+2200886	[Shoman] Pantothenate kinase-associated neurodegeneration	PKAN	[小慢] パントテン酸キナーゼ関連神経変性症		MONDO:0009319	97
+2200887	[Shoman] Infantile neuroaxonal dystrophy	INAD	[小慢] 乳児神経軸索ジストロフィー		MONDO:0009739	96
+2200888	[Shoman] Infantile bilateral striatal necrosis	IBSN	[小慢] 乳児両側線条体壊死		MONDO:0015518	82
+2200889	[Shoman] Congenital herpes simplex virus infection		[小慢] 先天性ヘルペスウイルス感染症		MONDO:0017381	47
+2200890	[Shoman] Congenital rubella syndrome		[小慢] 先天性風疹症候群		MONDO:0005713|MONDO:0017361	46
+2200891	[Shoman] Congenital cytomegalovirus infection		[小慢] 先天性サイトメガロウイルス感染症		MONDO:0017409	44
+2200892	[Shoman] Congenital toxoplasmosis		[小慢] 先天性トキソプラズマ感染症		MONDO:0005715	45
+2200893	[Shoman] Aicardi-Goutières Syndrome	AGS	[小慢] エカルディ・グティエール症候群	Aicardi-Goutieres症候群|Aicardi-Goutières症候群|TREX1欠損症	MONDO:0018866	9
+2200899	[Shoman] Subacute sclerosing panencephalitis	SSPE	[小慢] 亜急性硬化性全脳炎		MONDO:0009835	1
+2200900	[Shoman] Rasmussen's encephalitis	Rasmussen encephalitis	[小慢] ラスムッセン脳炎	Rasmussen脳炎	MONDO:0016019	104
+2200901	[Shoman] Acute encephalopathy with biphasic seizures and late reduced diffusion	AESD	[小慢] 痙攣重積型急性脳症	痙攣重積型（二相性）急性脳症	MONDO:0018198	20
+2200902	[Shoman] Autoimmune encephalitis		[小慢] 自己免疫介在性脳炎・脳症		MONDO:0020640	21
+2200903	[Shoman] Acute encephalitis with refractory, repetitive partial seizures	AERRPS	[小慢] 難治頻回部分発作重積型急性脳炎		MONDO:0015584	81
+2200904	[Shoman] Multiple sclerosis	MS	[小慢] 多発性硬化症		MONDO:0005301	62
+2200905	[Shoman] Chronic inflammatory demyelinating polyneuropathy	CIDP	[小慢] 慢性炎症性脱髄性多発神経炎		MONDO:0002335|MONDO:0006702|MONDO:0007691	102
+2200906	[Shoman] Myasthenia gravis	MG	[小慢] 重症筋無力症		MONDO:0009688	22
+2200907	[Shoman] Lactose intolerance		[小慢] 乳糖不耐症		MONDO:0009116	29
+2200908	[Shoman] Congenital sucrase-isomaltase deficiency	CSID	[小慢] ショ糖イソ麦芽糖分解酵素欠損症		MONDO:0009114	26
+2200909	[Shoman] Glucose-galactose malabsorption	GGM	[小慢] 先天性グルコース・ガラクトース吸収不良症		MONDO:0011731	27
+2200910	[Shoman] Enterokinase deficiency		[小慢] エンテロキナーゼ欠損症		MONDO:0009173	25
+2200911	[Shoman] Amylase deficiency		[小慢] アミラーゼ欠損症		MONDO:0015169	24
+2200912	[Shoman] Lipase deficiency		[小慢] リパーゼ欠損症		MONDO:0013700	31
+2200913	[Shoman] Microvillus inclusion disease	Congenital microvillus atrophy	[小慢] 微絨毛封入体病	先天性微絨毛萎縮症	MONDO:0009635	30
+2200914	[Shoman] Intestinal lymphangiectasia		[小慢] 腸リンパ管拡張症		MONDO:0018178	28
+2200915	[Shoman] Familial adenomatous polyposis	FAP	[小慢] 家族性腺腫性ポリポーシス		MONDO:0021055	40
+2200916	[Shoman] Juvenile polyposis		[小慢] 若年性ポリポーシス		MONDO:0017380	41
+2200917	[Shoman] Peutz-Jeghers syndrome		[小慢] ポイツ・ジェガース症候群	Peutz-Jeghers症候群	MONDO:0008280	42
+2200918	[Shoman] Cowden syndrome		[小慢] カウデン症候群	Cowden症候群	MONDO:0016063	39
+2200919	[Shoman] Cyclic vomiting syndrome	CVS	[小慢] 周期性嘔吐症候群		MONDO:0010778	19
+2200920	[Shoman] Ulcerative colitis		[小慢] 潰瘍性大腸炎		MONDO:0005101	1
+2200921	[Shoman] Crohn's disease		[小慢] クローン病	Crohn病	MONDO:0005011	2
+2200922	[Shoman] Early-onset inflammatory bowel disease		[小慢] 早期発症型炎症性腸疾患			4
+2200925	[Shoman] Chronic nonspecific multiple ulcers of the small intestine	Chronic enteropathy associated with SLCO2A1|CEAS	[小慢] 非特異性多発性小腸潰瘍症		MONDO:0018766	34
+2200926	[Shoman] Acute liver failure with hepatic coma	Hepatic coma	[小慢] 急性肝不全（昏睡型）			17
+2200927	[Shoman] Neonatal hemochromatosis	Neonatal haemochromatosis	[小慢] 新生児ヘモクロマトーシス		MONDO:0009275	45
+2200928	[Shoman] Autoimmune hepatitis	AIH	[小慢] 自己免疫性肝炎		MONDO:0016264	44
+2200929	[Shoman] Primary sclerosing cholangitis	PSC	[小慢] 原発性硬化性胆管炎		MONDO:0013433|MONDO:0018646	43
+2200930	[Shoman] biliary atresia	BA	[小慢] 胆道閉鎖症		MONDO:0008867|MONDO:0028737	16
+2200931	[Shoman] Alagille syndrome		[小慢] アラジール症候群	Alagille症候群	MONDO:0007318	11
+2200932	[Shoman] Non-syndromic paucity of intrahepatic bile duct		[小慢] 肝内胆管減少症	非症候性肝内胆管減少症		12
+2200933	[Shoman] Progressive familial intrahepatic cholestasis	PFIC	[小慢] 進行性家族性肝内胆汁うっ滞症		MONDO:0015762	13
+2200934	[Shoman] Caroli disease		[小慢] 先天性多発肝内胆管拡張症	カロリ病|Caroli病	MONDO:0010913|MONDO:0018808	14
+2200935	[Shoman] Congenital biliary dilatation		[小慢] 先天性胆道拡張症			15
+2200936	[Shoman] Congenital hepatic fibrosis	CHF	[小慢] 先天性肝線維症		MONDO:0018840	10
+2200937	[Shoman] Liver cirrhosis		[小慢] 肝硬変症		MONDO:0005155	9
+2200938	[Shoman] Portal hypertension	Banti syndrome	[小慢] 門脈圧亢進症	バンチ症候群	MONDO:0005080|MONDO:0021969	7
+2200939	[Shoman] Congenital absence of portal vein	CAPV	[小慢] 先天性門脈欠損症			6
+2200940	[Shoman] Congenital hepatoportal arteriovenous fistula		[小慢] 門脈・肝動脈瘻			8
+2200941	[Shoman] Crigler-Najjar syndrome		[小慢] クリグラー・ナジャー症候群	Crigler-Najjar症候群	MONDO:0009044	18
+2200942	[Shoman] Hereditary pancreatitis		[小慢] 遺伝性膵炎		MONDO:0008185	32
+2200943	[Shoman] Autoimmune pancreatitis		[小慢] 自己免疫性膵炎		MONDO:0015175	33
+2200944	[Shoman] Short bowel syndrome		[小慢] 短腸症		MONDO:0015183	23
+2200945	[Shoman] Hirschsprung disease	Hirschsprung's disease	[小慢] ヒルシュスプルング病	Hirschsprung病	MONDO:0018309	37
+2200946	[Shoman] Chronic idiopathic intestinal pseudo-obstruction	CIIP	[小慢] 慢性特発性偽性腸閉塞症		MONDO:0017574	38
+2200947	[Shoman] Megacystis-microcolon-intestinal hypoperistalsis syndrome	MMIHS	[小慢] 巨大膀胱短小結腸腸管蠕動不全症		MONDO:0007960	35
+2200948	[Shoman] Congenital Isolated Hypoganglionosis		[小慢] 腸管神経節細胞僅少症		MONDO:0018309|MONDO:0008738	36
+2200949	[Shoman] Giant hepatic hemangiomas	Giant hepatic haemangiomas|Critical infantile hepatic haemangioma	[小慢] 肝巨大血管腫	乳幼児難治性肝血管腫		5
+2200950	[Shoman] Persistent cloaca		[小慢] 総排泄腔遺残		MONDO:0009774	21
+2200951	[Shoman] Cloacal exstrophy		[小慢] 総排泄腔外反症		MONDO:0009774	22
+2200952	[Shoman] Coffin-Lowry syndrome		[小慢] コフィン・ローリー症候群	Coffin-Lowry症候群	MONDO:0010561	16
+2200953	[Shoman] Sotos syndrome		[小慢] ソトス症候群	Sotos症候群	MONDO:0019349	26
+2200954	[Shoman] Smith-Magenis syndrome		[小慢] スミス・マギニス症候群	Smith-Magenis症候群	MONDO:0008434	23
+2200955	[Shoman] Rubinstein-Taybi syndrome		[小慢] ルビンシュタイン・テイビ症候群	Rubinstein-Taybi症候群	MONDO:0019188	38
+2200956	[Shoman] Kabuki syndrome		[小慢] 歌舞伎症候群		MONDO:0016512	12
+2200957	[Shoman] Weaver syndrome		[小慢] ウィーバー症候群	Weaver症候群	MONDO:0010193	9
+2200958	[Shoman] Cornelia de Lange syndrome		[小慢] コルネリア・デランゲ症候群	Cornelia de Lange症候群	MONDO:0016033	17
+2200959	[Shoman] Beckwith-Wiedemann syndrome		[小慢] ベックウィズ・ヴィーデマン症候群	Beckwith-Wiedemann症候群	MONDO:0007534	33
+2200960	[Shoman] Angelman syndrome		[小慢] アンジェルマン症候群	Angelman症候群	MONDO:0007113	1
+2200961	[Shoman] 5p- syndrome	5p deletion syndrome	[小慢] 5p-症候群	5p欠失症候群	MONDO:0007404	2
+2200962	[Shoman] 4p- Syndrome	4p deletion syndrome	[小慢] 4p-症候群	4p欠失症候群	MONDO:0008684	6
+2200963	[Shoman] Trisomy 18	18 trisomy syndrome|Chromosome 18 duplication|Edwards syndrome	[小慢] 18トリソミー症候群		MONDO:0018071	4
+2200964	[Shoman] Trisomy 13	13 trisomy syndrome|Patau syndrome	[小慢] 13トリソミー症候群		MONDO:0018068	3
+2200965	[Shoman] Down syndrome	Trisomy 21	[小慢] ダウン症候群	Down症候群	MONDO:0008608	5
+2200966	[Shoman] Other chromosomal abnormalities	Autosome	[小慢] 9から14までに掲げるもののほか、常染色体異常			7
+2200967	[Shoman] CFC Syndrome	Cardio-facio-cutaneuos syndrome	[小慢] CFC症候群	cardio-facio-cutaneous症候群|心臓・顔・皮膚症候群	MONDO:0015280	19
+2200968	[Shoman] Marfan syndrome		[小慢] マルファン症候群	Marfan症候群	MONDO:0007947	34
+2200969	[Shoman] Loeys-Dietz syndrome		[小慢] ロイス・ディーツ症候群		MONDO:0018954	39
+2200970	[Shoman] Camurati-Engelmann disease		[小慢] カムラティ・エンゲルマン症候群		MONDO:0007542	13
+2200971	[Shoman] Costello syndrome		[小慢] コステロ症候群	Costello症候群	MONDO:0009026	14
+2200972	[Shoman] CHARGE syndrome		[小慢] チャージ症候群	CHARGE症候群	MONDO:0008965	28
+2200973	[Shoman] Hallermann-Streiff syndrome	HSS|Hallermann-Streiff-Francois syndrome|Oculo-mandibulo-facial syndrome	[小慢] ハーラマン・ストライフ症候群	眼・下顎・顔症候群	MONDO:0009318	30
+2200974	[Shoman] Incontinentia pigmenti	Bloch-Sulzberger syndrome	[小慢] 色素失調症		MONDO:0010631	20
+2200975	[Shoman] Antley-Bixler syndrome	Antley-Bixler Syndrome Phenotype	[小慢] アントレー・ビクスラー症候群	Antley-Bixler症候群	MONDO:0008803	8
+2200976	[Shoman] Pfeiffer syndrome		[小慢] ファイファー症候群	Pfeiffer症候群	MONDO:0005810|MONDO:0007043	32
+2200977	[Shoman] Coffin-Siris syndrome		[小慢] コフィン・シリス症候群	Coffin-Siris症候群	MONDO:0015452	15
+2200978	[Shoman] Simpson-Golabi-Behmel syndrome	SGS|SGBS	[小慢] シンプソン・ゴラビ・ベーメル症候群	Simpson-Golabi-Behmel症候群	MONDO:0010731	22
+2200979	[Shoman] Smith-Lemli-Opitz syndrome		[小慢] スミス・レムリ・オピッツ症候群	Smith-Lemli-Opitz症候群	MONDO:0010035	24
+2200980	[Shoman] Moebius syndrome	Möbius syndrome	[小慢] メビウス症候群	Moebius症候群	MONDO:0008006	35
+2200981	[Shoman] Mowat-Wilson syndrome		[小慢] モワット・ウィルソン症候群	Mowat-Wilson症候群	MONDO:0009341	36
+2200982	[Shoman] Young-Simpson syndrome		[小慢] ヤング・シンプソン症候群	Young-Simpson症候群	MONDO:0011365	37
+2200983	[Shoman] VATER syndrome		[小慢] VATER症候群		MONDO:0008642	31
+2200984	[Shoman] MECP2 duplication syndrome		[小慢] MECP2重複症候群		MONDO:0010283	10
+2200985	[Shoman] Takenouchi-Kosaki syndrome		[小慢] 武内・小崎症候群		MONDO:0014757	27
+2200986	[Shoman] Oculocutaneous albinism	OCA	[小慢] 眼皮膚白皮症	先天性白皮症	MONDO:0018910	1
+2200987	[Shoman] Keratinopathic ichthyosis		[小慢] ケラチン症性魚鱗癬		MONDO:0017266	5
+2200991	[Shoman] Autosomal recessive congenital ichthyosis		[小慢] 常染色体劣性遺伝性魚鱗癬		MONDO:0017265	7
+2200992	[Shoman] Harlequin ichthyosis		[小慢] 道化師様魚鱗癬		MONDO:0009443	8
+2200993	[Shoman] Netherton syndrome		[小慢] ネザートン症候群	Netherton症候群	MONDO:0009735	9
+2200994	[Shoman] Sjögren-Larsson syndrome	Sjogren-Larsson syndrome	[小慢] シェーグレン・ラルソン症候群	Sjögren-Larsson症候群	MONDO:0010031	6
+2200995	[Shoman] Other congenital ichthyoses		[小慢] 2から6までに掲げるもののほか、先天性魚鱗癬			10
+2201000	[Shoman] Epidermolysis bullosa		[小慢] 表皮水疱症		MONDO:0006541	15
+2201001	[Shoman] Pustular psoriasis	Generalized pustular psoriasis|GPP	[小慢] 膿疱性乾癬（汎発型）		MONDO:0022205	13
+2201002	[Shoman] Xeroderma pigmentosum	XP	[小慢] 色素性乾皮症		MONDO:0019600	3
+2201003	[Shoman] von Recklinghausen's disease	Neurofibromatosis type 1	[小慢] レックリングハウゼン病	神経線維腫症I型|Recklinghausen病	MONDO:0018975|MONDO:0021061	17
+2201004	[Shoman] Pachydermoperiostosis	PDP	[小慢] 肥厚性皮膚骨膜症		MONDO:0009799|MONDO:0016620	14
+2201005	[Shoman] Anhidrotic ectodermal dysplasia		[小慢] 無汗性外胚葉形成不全		MONDO:0016535	16
+2201006	[Shoman] Stevens-Johnson syndrome	Toxic epidermal necrolysis|SJS	[小慢] スティーヴンス・ジョンソン症候群	Stevens-Johnson症候群|皮膚粘膜眼症候群	MONDO:0018229	4
+2201008	[Shoman] Thoracic insufficiency syndrome		[小慢] 胸郭不全症候群		MONDO:0015929	1
+2201009	[Shoman] Achondroplasia		[小慢] 軟骨無形成症		MONDO:0007037	14
+2201010	[Shoman] Hypochondroplasia		[小慢] 軟骨低形成症		MONDO:0007793	13
+2201011	[Shoman] Osteogenesis imperfecta		[小慢] 骨形成不全症		MONDO:0019019	3
+2201012	[Shoman] Hypophosphatasia		[小慢] 低ホスファターゼ症		MONDO:0018570	9
+2201013	[Shoman] Osteopetrosis		[小慢] 大理石骨病		MONDO:0017198	6
+2201014	[Shoman] Multiple cartilaginous exostosis	Hereditary multiple exostosis	[小慢] 多発性軟骨性外骨腫症		MONDO:0005508	8
+2201015	[Shoman] Enchondromatosis	Ollier disease|Osteochondromatosis|Dyschondroplasia	[小慢] 内軟骨腫症		MONDO:0005508|MONDO:0008145	12
+2201016	[Shoman] Type II collagenopathy		[小慢] 2型コラーゲン異常症関連疾患		MONDO:0015627|MONDO:0016068|MONDO:0022800	15
+2201017	[Shoman] Chondrodysplasia punctata		[小慢] 点状軟骨異形成症		MONDO:0019701	11
+2201018	[Shoman] Pseudoachondroplasia		[小慢] 偽性軟骨無形成症		MONDO:0008322	2
+2201019	[Shoman] Larsen syndrome		[小慢] ラーセン症候群	Larsen症候群	MONDO:0007875	17
+2201020	[Shoman] Fibrodysplasia ossificans progressiva	FOP	[小慢] 進行性骨化性線維異形成症		MONDO:0003964|MONDO:0007606	5
+2201021	[Shoman] Transient receptor potential cation channel, vanilloid subfamily, member 4 -associated disorders	TRPV4-associated disorders	[小慢] TRPV4異常症		MONDO:0018240	10
+2201022	[Shoman] Osteosclerotic diseases		[小慢] 骨硬化性疾患		MONDO:0002933	4
+2201026	[Shoman] Beals syndrome	Congenital contractural arachnodactyly	[小慢] ビールズ症候群	Beals症候群|遠位型多発性関節拘縮症9型	MONDO:0007363	16
+2201027	[Shoman] Blue rubber bleb nevus syndrome		[小慢] 青色ゴムまり様母斑症候群	Bean症候群	MONDO:0007203	3
+2201028	[Shoman] Gigantic venous malformation	Huge venous malformation	[小慢] 巨大静脈奇形			4
+2201029	[Shoman] Huge arteriovenous malformation	Gigantic arteriovenous malformation	[小慢] 巨大動静脈奇形			5
+2201030	[Shoman] Klippel-Trenaunay-Weber syndrome	Klippel–Trénaunay syndrome	[小慢] クリッペル・トレノネー・ウェーバー症候群	Klippel-Trenanay-Weber症候群	MONDO:0007864	6
+2201031	[Shoman] Primary lymphedema		[小慢] 原発性リンパ浮腫		MONDO:0019175	7
+2201032	[Shoman] Lymphangioma		[小慢] リンパ管腫		MONDO:0002013	8
+2201033	[Shoman] Lymphangiomatosis		[小慢] リンパ管腫症		MONDO:0015408	9
+2201034	[Shoman] Hereditary hemorrhagic telangiectasia	HHT|Osler-Weber-Rendu disease|Hereditary haemorrhagic telangiectasia	[小慢] 遺伝性出血性末梢血管拡張症	オスラー病	MONDO:0019180	1
+2201035	[Shoman] Kasabach-Merritt syndrome		[小慢] カサバッハ・メリット症候群 	Kasabach-Merritt症候群 	MONDO:0007708	2
+2201385	[Shoman] Galloway-Mowat syndrome		[小慢] ギャロウェイ・モワト症候群	Galloway-Mowat症候群	MONDO:0009627	22
+2201386	[Shoman] Autosomal dominant tubulointerstitial kidney disease	ADTKD	[小慢] 常染色体優性尿細管間質性腎疾患		MONDO:0008264	5
+2201391	[Shoman] Branchio-oto-renal syndrome	BOR syndrome	[小慢] 鰓耳腎症候群	BOR症候群	MONDO:0007029|MONDO:0018878	7
+2201392	[Shoman] Holt-Oram syndrome		[小慢] ホルト・オーラム症候群	Holt-Oram症候群|Heart-Hand症候群I型|心臓-手症候群I型	MONDO:0007732	92
+2201393	[Shoman] CASK abnormality		[小慢] ＣＡＳＫ異常症		MONDO:0010417	85
+2201394	[Shoman] Hemimegaloencephaly		[小慢] 片側巨脳症		MONDO:0020492	92
+2201395	[Shoman] DDX3X-related neurodevelopmental disorder		[小慢] DDX3X関連神経発達異常症		MONDO:0010497	63
+2201396	[Shoman] Congenital disorders of glycosylation	CDG	[小慢] 先天性グリコシル化異常症		MONDO:0015286	64
+2201397	[Shoman] Aicardi syndrome		[小慢] アイカルディ症候群	Aicardi症候群	MONDO:0010568	66
+2201398	[Shoman] Ohtahara syndrome		[小慢] 大田原症候群		MONDO:0100062	67
+2201399	[Shoman] Ring chromosome 20 syndrome		[小慢] 環状20番染色体症候群		MONDO:0015436	68
+2201400	[Shoman] GRIN2B-related neurodevelopmental disorder		[小慢] GRIN2B関連神経発達異常症		MONDO:0014505|MONDO:0035122|MONDO:0013509	69
+2201401	[Shoman] Hypothalamic hamartoma syndrome		[小慢] 視床下部過誤腫症候群		MONDO:0009436	70
+2201402	[Shoman] Epileptic encephalopathy with continuous spike-and-wave during sleep		[小慢] 徐波睡眠期持続性棘徐波を示すてんかん性脳症		MONDO:0019123|MONDO:0022858	71
+2201403	[Shoman] Early myoclonic encephalopathy		[小慢] 早期ミオクロニー脳症		MONDO:0016022	72
+2201404	[Shoman] PCDH19-related syndrome		[小慢] PCDH19関連症候群		MONDO:0010246	75
+2201405	[Shoman] PURA-related neurodevelopmental disorders		[小慢] PURA関連神経発達異常症		MONDO:0018580	76
+2201406	[Shoman] Epilepsy with myoclonic absence		[小慢] ミオクロニー欠神てんかん		MONDO:0019487	77
+2201407	[Shoman] Epilepsy with myoclonic-atonic seizures		[小慢] ミオクロニー脱力発作を伴うてんかん		MONDO:0016025	78
+2201408	[Shoman] Epilepsy of infancy with migrating focal seizures	EIMFS	[小慢] 遊走性焦点発作を伴う乳児てんかん		MONDO:0017385|MONDO:0100025	79
+2201409	[Shoman] Vitamine B6-dependent epilepsy		[小慢] ビタミンB6依存性てんかん		MONDO:0009945	99
+2201413	[Shoman] Bilirubin encephalopathy in preterm infants		[小慢] 早産児ビリルビン脳症			58
+2201414	[Shoman] WDR45 associated neurodegeneration	SENDA/BPAN	[小慢] WDR45関連神経変性症		MONDO:0010476	95
+2201415	[Shoman] 		[小慢] 染色体又は遺伝子異常を伴い特徴的な形態的異常の組み合わせを呈する症候群（厚生労働省健康局長の定めるものに限る。）			25
+2201420	[Shoman] Localized scleroderma/morphea		[小慢] 限局性強皮症		MONDO:0019562	2
+2201426	[Shoman] Thanatophoric dysplasia		[小慢] タナトフォリック骨異形成症		MONDO:0017042	7
